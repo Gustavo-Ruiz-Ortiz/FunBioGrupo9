@@ -1,14 +1,14 @@
 # Biodiseño Equipo 9
 
--Nicole Medina:
+-Nicole Medina
 
--Gustavo Ruiz:
+-Gustavo Ruiz
 
--Nicolas Caballero:
+-Nicolas Caballero
 
--Enrique Alcantara:
+-Enrique Alcantara
 
--Valeria Rivera:
+-Valeria Rivera
 
 **Análisis del caso**:
 
