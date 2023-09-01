@@ -4,7 +4,7 @@
 
 -Gustavo Ruiz:
 
--nicolas:
+-Nicolas:
 
 -Enrique:
 
