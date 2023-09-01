@@ -46,7 +46,30 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 ##Estado del Arte Científico
 
-| Nombre       | Ventajas| Desventajas| Imagen|
-|--------------|---------|------------|-------|
-|Termociclador |R01871
-
+| Nombre       |Ventajas                           | Desventajas                                  | Imagen                     |
+|--------------|-----------------------------------|----------------------------------------------|----------------------------|
+|Termociclador |Favorece la experimentación        |No cuenta con un diagnóstico inteligente      |                            |
+|              |diaria protegiendo las reacciones, |rango de temperatura gradiente ni uniformidad |                            | 
+|   YR01871    |usa un sistema térmico Heal Force, |de gradiente. Posee un solo módulo lo cual    |                            |
+|              |logrando la uniformidad excepcional|provoca una larga espera para el análisis.    |                            |
+|              |y resultados significativos.       |                                              |                            |
+|--------------|-----------------------------------|----------------------------------------------|----------------------------|
+|Termociclador |Uso eficiente del equipo por tres  |                                              |                            |
+|              |usuarios de forma independiente,   |                                              |                            |
+|   YR01867    |protegiendo de manera eficiente la |No cuenta con un diseño ligero.               |                            |
+|              |información; además de un potente  |                                              |                            |
+|              |sistema de procesamiento, una      |                                              |                            |
+|              |pantalla táctil, tapa caliente.    |                                              |                            |
+|--------------|-----------------------------------|----------------------------------------------|----------------------------|
+|Termociclador |Posee una pantalla táctil intuitiva|                                              |                            |
+|              |que permite que ejecutar PCR sea   |                                              |                            |
+|   YR01868    |más fácil; además de una opción a  |La uniformidad de gradiente  se da en una sola|                            |
+|              |distancia gracias a su software de |fila.                                         |                            |
+|              |administración.                    |                                              |                            |
+|--------------|-----------------------------------|----------------------------------------------|----------------------------|
+|Termociclador |Ofrece 12 canales de temperatura y |                                              |                            |
+|              |y una precisión muy buena, pantalla|                                              |                            | 
+|   YR01869    |LCD, interfaz intuitiva y regulador|La uniformidad de gradiente se da en una sola |                            |
+|              |de presión de tapa caliente de dos |fila.                                         |                            |
+|              |tapas.                             |                                              |                            |
+|--------------|-----------------------------------|----------------------------------------------|----------------------------|
