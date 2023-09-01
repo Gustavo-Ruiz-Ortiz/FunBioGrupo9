@@ -46,3 +46,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 ##Estado del Arte Científico
 
+| Nombre       | Ventajas| Desventajas| Imagen|
+|--------------|---------|------------|-------|
+|Termociclador |R01871
+
