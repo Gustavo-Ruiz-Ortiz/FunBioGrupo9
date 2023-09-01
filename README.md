@@ -1,2 +1,8 @@
 # Biodiseño Equipo 9
-#Integrantes
+Integrantes
+Nicole Medina Saraya
+Gustavo Ruiz
+Nicolas
+Enrique
+Valeria
+
