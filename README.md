@@ -50,8 +50,8 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 |--------------|-----------------------------------|----------------------------------------------|----------------------------|
 |Termociclador YR01871|Favorece la experimentación diaria protegiendo las reacciones, usa un sistema térmico Heal Force, logrando la uniformidad excepcional y resultados significativos.|No cuenta con un diagnóstico inteligente, rango de temperatura gradiente ni uniformidad de gradiente. Posee un solo módulo lo cual provoca una larga espera para el análisis.||
 |Termociclador YR01867|Uso eficiente del equipo por tres usuarios de forma independiente, protegiendo de manera eficiente la información, además de un potente sistema de procesamiento, una pantalla táctil, tapa caliente.|No cuenta con un diseño ligero.|| 
-
-
+|Termociclador YR01868|Posee una pantalla táctil intuitiva que permite que ejecutar PCR sea más fácil; además de una opción a distancia gracias a su software de administración.|La uniformidad de gradiente se da en una sola fila.||
+|Termociclador YR01869| Ofrece 12 canales de temperatura y una precisión muy buena, pantalla LCD, interfaz intuitiva y regulador de presión de tapa caliente de dos tapas.|La uniformidad de gradiente se da en una sola fila.||
 
 
                                                                                                                                                                                                                                                  
