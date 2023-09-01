@@ -48,7 +48,9 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 | Nombre       |Ventajas                           | Desventajas                                  | Imagen                     |
 |--------------|-----------------------------------|----------------------------------------------|----------------------------|
-|Termociclador |Favorece la experimentación diaria protegiendo las reacciones, usa un sistema térmico Heal Force, logrando la uniformidad excepcional y resultados significativos.|No cuenta con un diagnóstico inteligente, rango de temperatura gradiente ni uniformidad de gradiente. Posee un solo módulo lo cual provoca una larga espera para el análisis.|
+|Termociclador YR01871|Favorece la experimentación diaria protegiendo las reacciones, usa un sistema térmico Heal Force, logrando la uniformidad excepcional y resultados significativos.|No cuenta con un diagnóstico inteligente, rango de temperatura gradiente ni uniformidad de gradiente. Posee un solo módulo lo cual provoca una larga espera para el análisis.||
+|Termociclador YR01867|Uso eficiente del equipo por tres usuarios de forma independiente, protegiendo de manera eficiente la información, además de un potente sistema de procesamiento, una pantalla táctil, tapa caliente.|No cuenta con un diseño ligero.|| 
+
 
 
 
