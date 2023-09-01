@@ -53,7 +53,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 |   YR01871    |usa un sistema térmico Heal Force, |de gradiente. Posee un solo módulo lo cual    |                            |
 |              |logrando la uniformidad excepcional|provoca una larga espera para el análisis.    |                            |
 |              |y resultados significativos.       |                                              |                            |
-|--------------|-----------------------------------|----------------------------------------------|----------------------------|
+|------|-------|-----------|--------|
 |Termociclador |Uso eficiente del equipo por tres  |                                              |                            |
 |              |usuarios de forma independiente,   |                                              |                            |
 |   YR01867    |protegiendo de manera eficiente la |No cuenta con un diseño ligero.               |                            |
