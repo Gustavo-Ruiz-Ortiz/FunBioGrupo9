@@ -44,7 +44,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 ¿Cómo podríamos diseñar un dispositivo de bajo costo, en centros de salud donde estos son escasos, y que cumpla con funciones básicas como el análisis de expresión genética?
 
-##Estado del Arte Científico
+**Estado del Arte Científico**
 
 | Nombre       |Ventajas                           | Desventajas                                  | Imagen                     |
 |--------------|-----------------------------------|----------------------------------------------|----------------------------|
