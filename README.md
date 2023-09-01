@@ -40,7 +40,7 @@ Luego de una hora y el ADN se replicara millones de veces, la máquina indicará
 La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, cuya función esencial para la replicación correcta del adn es mantener los ciclos de temperatura necesarios para llevar a cabo la reacción en cadena. 
 
 
-**FORMULACIÓN DE LA PROBLEMÁTICA**:
+**FORMULACIÓN DE LA PROBLEMÁTICA**
 
 ¿Cómo podríamos diseñar un dispositivo de bajo costo, en centros de salud donde estos son escasos, y que cumpla con funciones básicas como el análisis de expresión genética?
 
