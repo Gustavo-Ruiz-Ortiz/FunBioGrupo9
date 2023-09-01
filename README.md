@@ -1,6 +1,6 @@
 # Biodiseño Equipo 9
 
-*Nicole Medina Saraya
+*Nicole Medina Saraya:
 
 *Gustavo Ruiz
 *nicolas
