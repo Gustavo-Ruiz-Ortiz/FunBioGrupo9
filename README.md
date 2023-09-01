@@ -54,6 +54,9 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 |Termociclador YR01869| Ofrece 12 canales de temperatura y una precisión muy buena, pantalla LCD, interfaz intuitiva y regulador de presión de tapa caliente de dos tapas.|![](https://kalstein.com.mx/wp-content/uploads/2022/12/YR01869-IMG.jpg)|
 
 **Bibliografía**
+
 +Bahena-García E, García-Cordero JL. Termociclador de Bajo Costo para Amplificar DNA Mediante Técnica de PCR en Microdispositivos. MCNIB [Internet]. 2014 [citado el 31 de agosto de 2023];1(1):152–5. Recuperado de: https://memoriascnib.mx/index.php/memorias/article/view/196
+
 +En M, Lenin C, De T, Avenida D, Núm M-X. Fundamentos de la reacción en cadena de la polimerasa (PCR) y de la PCR en tiempo real [Internet]. Medigraphic.com. [citado el 31 de agosto de 2023]. Recuperado de: https://www.medigraphic.com/pdfs/invdis/ir-2013/ir132d.pdf  
+
 +Grupo 1A - Informe Final de Maqueta Termociclador Convencional y en Tiempo Real [Internet]. Scribd. [cited 2023 Sep 1]. Available from: https://es.scribd.com/document/650243313/Grupo-1A-Informe-Final-de-Maqueta-Termociclador-Convencional-y-en-Tiempo-Real
