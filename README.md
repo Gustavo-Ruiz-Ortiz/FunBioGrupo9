@@ -4,11 +4,11 @@
 
 -Gustavo Ruiz:
 
-*nicolas:
+-nicolas:
 
-*Enrique:
+-Enrique:
 
-*Valeria:
+-Valeria:
 
 ##**Análisis del caso**:
 
