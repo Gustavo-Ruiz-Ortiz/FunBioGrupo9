@@ -46,7 +46,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 **Estado del Arte Científico**
 
-| Nombre       |Ventajas                           | Imagen                     |
+| Nombre       |Ventajas                           | Dibujo                     |
 |--------------|-----------------------------------|----------------------------|
 |Termociclador YR01871|Favorece la experimentación diaria protegiendo las reacciones, usa un sistema térmico Heal Force, logrando la uniformidad excepcional y resultados significativos.|![](https://kalstein.com.pe/wp-content/uploads/2022/12/YR01871.jpg)|
 |Termociclador YR01867|Uso eficiente del equipo por tres usuarios de forma independiente, protegiendo de manera eficiente la información, además de un potente sistema de procesamiento, una pantalla táctil, tapa caliente.|![](https://ef6ythi22o5.exactdn.com/wp-content/uploads/2022/12/YR01867-Kalstein-K.jpg?strip=all&lossy=1&ssl=1)| 
@@ -65,8 +65,9 @@ Productos Comerciales
 
 | Nombre     |Características                           | Imagen                     |
 |--------------|-----------------------------------|----------------------------|
-| TERMOCICLADOR PARA 48 TUBOS DE 0,2 ML. IDEAL EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real. Enfriamiento activo a 4º C. Función de cubado instantáneo. Rango de temperatura: 39.2-210.2 °F.|![](https://www.apmedical.es/wp-content/uploads/2020/12/1-termociclador-edvocycler-2.jpg)|
-|EP2703497A1|La presente descripción está dirigida a un chip microfluídico para la generación de gotitas acuosas para la amplificación de ácidos nucleicos, comprendiendo dicho chip microfluídico a) un primer depósito para la absorción de un líquido hidrófobo que termina en al menos una entrada o al menos una entrada proveniente de un exterior depósito de líquido hidrofóbico, cada entrada termina en un primer canal microfluídico que conecta al menos un primer depósito con un recipiente de reacción, b) al menos un elemento que comprende un segundo depósito para la absorción de una solución hidrofílica que termina en una entrada vertical en un segundo microfluídico canal que conecta el segundo depósito con un primer canal de microfluidos, c) al menos una unión en T entre dicho primer y segundo canal de microfluidos, caracterizado porque el extremo de dicho segundo canal de microfluidos está unido radial y horizontal al primer canal de microfluidos.|![]()| 
+| TERMOCICLADOR PARA EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real. Enfriamiento activo a 4º C. Función de cubado instantáneo. Rango de temperatura: 39.2-210.2 °F.|![](https://www.apmedical.es/wp-content/uploads/2020/12/1-termociclador-edvocycler-2.jpg)|
+|TERMOCICLADOR EN TIEMPO REAL PARA EDUCACION, PRACTICAS DE LABORATORIO|Termociclador de PCR a Tiempo Real. Económico – Fácil de utilizar y programar. Capacidad para 8 muestras de 0. 2 ml. Requiere ordenador adicional.
+|![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apmedical.es%2Fproducto%2Ftermociclador-en-tiempo-real-para-8-muestras-de-0-2-ml-ideal-educacion-practicas-de-laboratorio%2F&psig=AOvVaw1Kldf_TQQM-TTSYpX-YISN&ust=1694492767780000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCn2s3boYEDFQAAAAAdAAAAABAE)| 
 
 
 
