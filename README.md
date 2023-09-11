@@ -68,7 +68,16 @@ Productos Comerciales
 | TERMOCICLADOR PARA EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real. Enfriamiento activo a 4º C. Función de cubado instantáneo. Rango de temperatura: 39.2-210.2 °F.|![](https://www.apmedical.es/wp-content/uploads/2020/12/1-termociclador-edvocycler-2.jpg)|
 |TERMOCICLADOR EN TIEMPO REAL PARA EDUCACION, PRACTICAS DE LABORATORIO|Termociclador de PCR a Tiempo Real. Económico – Fácil de utilizar y programar. Capacidad para 8 muestras de 0. 2 ml. Requiere ordenador adicional.|![](https://www.apmedical.es/wp-content/uploads/2020/12/termociclador-8-1.jpg)| 
 
-
+**Propuesta de Solución**
+-FUNCIONALES:
+° Replicación del ADN mediante el uso de un chip microfluídico
+° Regulación de temperatura en intervalos
+° Interfaz guiada
+-NO FUNCIONALES:
+° Pantalla táctil
+° Capacidad de analizar una muestra 
+° Ligero
+° Accesible para estudiantes de secundaria
 
 
 **Bibliografía**
