@@ -61,6 +61,17 @@ Patentes de invención o utilidad
 | KR1020120016689|Se proporciona un compuesto de baja capacidad calorífica para termociclador para reducir el costo de producción, tener una conductividad térmica superior, propiedades físicas mejoradas y reducir el tiempo de reacción de la PCR (reacción en cadena de la polimerasa) y ahorrar energía en caso de usarlo como bloque térmico de al termociclador. CONSTITUCIÓN: Un compuesto de baja capacidad calorífica para termociclador comprende entre un 0,1 y un 60% en peso de estaño, metal sin estaño, nanodiamante o sus mezclas. El metal es uno o más seleccionados entre plata, cobre, aluminio, bismuto y antimonio. Un producto de baja capacidad calorífica se fabrica sinterizando, colando o laminando el compuesto de baja capacidad calorífica.|![](https://patentimages.storage.googleapis.com/30/11/3e/5e519c5a588cf7/pat00007.png)|
 |EP2703497A1|La presente descripción está dirigida a un chip microfluídico para la generación de gotitas acuosas para la amplificación de ácidos nucleicos, comprendiendo dicho chip microfluídico a) un primer depósito para la absorción de un líquido hidrófobo que termina en al menos una entrada o al menos una entrada proveniente de un exterior depósito de líquido hidrofóbico, cada entrada termina en un primer canal microfluídico que conecta al menos un primer depósito con un recipiente de reacción, b) al menos un elemento que comprende un segundo depósito para la absorción de una solución hidrofílica que termina en una entrada vertical en un segundo microfluídico canal que conecta el segundo depósito con un primer canal de microfluidos, c) al menos una unión en T entre dicho primer y segundo canal de microfluidos, caracterizado porque el extremo de dicho segundo canal de microfluidos está unido radial y horizontal al primer canal de microfluidos.|![]()| 
 
+Productos Comerciales
+
+| Nombre     |Características                           | Imagen                     |
+|--------------|-----------------------------------|----------------------------|
+| TERMOCICLADOR PARA 48 TUBOS DE 0,2 ML. IDEAL EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.
+-Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real.
+-Enfriamiento activo a 4º C.
+-Función de cubado instantáneo.
+-Rango de temperatura: 39.2-210.2 °F.
+|![](https://www.apmedical.es/producto/ideal-educacion-termociclador-para-48-tubos-de-02-ml/)|
+|EP2703497A1|La presente descripción está dirigida a un chip microfluídico para la generación de gotitas acuosas para la amplificación de ácidos nucleicos, comprendiendo dicho chip microfluídico a) un primer depósito para la absorción de un líquido hidrófobo que termina en al menos una entrada o al menos una entrada proveniente de un exterior depósito de líquido hidrofóbico, cada entrada termina en un primer canal microfluídico que conecta al menos un primer depósito con un recipiente de reacción, b) al menos un elemento que comprende un segundo depósito para la absorción de una solución hidrofílica que termina en una entrada vertical en un segundo microfluídico canal que conecta el segundo depósito con un primer canal de microfluidos, c) al menos una unión en T entre dicho primer y segundo canal de microfluidos, caracterizado porque el extremo de dicho segundo canal de microfluidos está unido radial y horizontal al primer canal de microfluidos.|![]()| 
 
 
 
