@@ -65,12 +65,7 @@ Productos Comerciales
 
 | Nombre     |Características                           | Imagen                     |
 |--------------|-----------------------------------|----------------------------|
-| TERMOCICLADOR PARA 48 TUBOS DE 0,2 ML. IDEAL EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.
--Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real.
--Enfriamiento activo a 4º C.
--Función de cubado instantáneo.
--Rango de temperatura: 39.2-210.2 °F.
-|![](https://www.apmedical.es/producto/ideal-educacion-termociclador-para-48-tubos-de-02-ml/)|
+| TERMOCICLADOR PARA 48 TUBOS DE 0,2 ML. IDEAL EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real. Enfriamiento activo a 4º C. Función de cubado instantáneo. Rango de temperatura: 39.2-210.2 °F.|![](https://www.apmedical.es/wp-content/uploads/2020/12/1-termociclador-edvocycler-2.jpg)|
 |EP2703497A1|La presente descripción está dirigida a un chip microfluídico para la generación de gotitas acuosas para la amplificación de ácidos nucleicos, comprendiendo dicho chip microfluídico a) un primer depósito para la absorción de un líquido hidrófobo que termina en al menos una entrada o al menos una entrada proveniente de un exterior depósito de líquido hidrofóbico, cada entrada termina en un primer canal microfluídico que conecta al menos un primer depósito con un recipiente de reacción, b) al menos un elemento que comprende un segundo depósito para la absorción de una solución hidrofílica que termina en una entrada vertical en un segundo microfluídico canal que conecta el segundo depósito con un primer canal de microfluidos, c) al menos una unión en T entre dicho primer y segundo canal de microfluidos, caracterizado porque el extremo de dicho segundo canal de microfluidos está unido radial y horizontal al primer canal de microfluidos.|![]()| 
 
 
