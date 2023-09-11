@@ -69,11 +69,11 @@ Productos Comerciales
 |TERMOCICLADOR EN TIEMPO REAL PARA EDUCACION, PRACTICAS DE LABORATORIO|Termociclador de PCR a Tiempo Real. Económico – Fácil de utilizar y programar. Capacidad para 8 muestras de 0. 2 ml. Requiere ordenador adicional.|![](https://www.apmedical.es/wp-content/uploads/2020/12/termociclador-8-1.jpg)| 
 
 **Propuesta de Solución**
--FUNCIONALES:/n
+# FUNCIONALES:
 ° Replicación del ADN mediante el uso de un chip microfluídico/n
 ° Regulación de temperatura en intervalos
 ° Interfaz guiada
--NO FUNCIONALES:
+# NO FUNCIONALES:
 ° Pantalla táctil
 ° Capacidad de analizar una muestra 
 ° Ligero
