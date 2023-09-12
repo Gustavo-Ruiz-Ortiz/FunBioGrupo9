@@ -44,7 +44,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 ¿Cómo podríamos diseñar un dispositivo de bajo costo, en centros de salud donde estos son escasos, y que cumpla con funciones básicas como el análisis de expresión genética?
 
-### Estado del Arte Científico
+### Estado del Arte 
 
 | Nombre       |Ventajas                           | Dibujo                     |
 |--------------|-----------------------------------|----------------------------|
@@ -67,7 +67,12 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 |--------------|-----------------------------------|----------------------------|
 | TERMOCICLADOR PARA EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real. Enfriamiento activo a 4º C. Función de cubado instantáneo. Rango de temperatura: 39.2-210.2 °F.|![](https://www.apmedical.es/wp-content/uploads/2020/12/1-termociclador-edvocycler-2.jpg)|
 |TERMOCICLADOR EN TIEMPO REAL PARA EDUCACION, PRACTICAS DE LABORATORIO|Termociclador de PCR a Tiempo Real. Económico – Fácil de utilizar y programar. Capacidad para 8 muestras de 0. 2 ml. Requiere ordenador adicional.|![](https://www.apmedical.es/wp-content/uploads/2020/12/termociclador-8-1.jpg)| 
-
+### Termocicladores OpenHardware
+| Nombre     |Características                           | Imagen                     |
+|--------------|-----------------------------------|----------------------------|
+| OpenPCR|Es un termociclador económico pero preciso usted mismo construye, capaz de controlar la PCR reacciones para la detección de ADN, deterioro de la cerveza y otras aplicaciones.Tiene un costo de $499.|![](https://openpcr.org/assets/machine-34ba9a259de2ce130a96f9f6380cc9da.png)|
+|Chai Open qPCR|Inicie una prueba en el laboratorio, vea los resultados desde su casa o desde cualquier lugar donde tenga Internet.O lleve Open qPCR al campo. Construido como un tanque diminuto y con un peso de sólo 4 kg, es fácil de transportar y puede funcionar en cualquier lugar donde haya energía. Tiene un costo de$5799|![](https://www.chaibio.com/assets/products/openqPCR/chai-page/Open-qPCR-7dff2e69b70d96490b173ab6b7a1e3e3d37ad6da3d7f4d2057cf5f682151f352.webp)| 
+|NinjaPCR|Más pequeño y más fácil de construir,cambia de plataforma de Adobe AIR a WiFi, casi todas las PC y teléfonos inteligentes son compatibles, todo en el navegador,mantenga la precisión de temperatura baja a alta, actualización automática para nuevas funciones (por ejemplo, soporte IFTTT programado)|![](https://camo.githubusercontent.com/a9a0cf95e2a95d366ea2541dfef33168138d7b727e7e6c9dda65e8b9240008ce/68747470733a2f2f6e696e6a617063722e746f72692e73742f6d616b65722f696d616765732f6d616b65725f616e645f6b6974352e6a7067)|
 ## Propuesta de Solución
 ### FUNCIONALES:
 ° Replicación del ADN mediante el uso de un chip microfluídico/n
