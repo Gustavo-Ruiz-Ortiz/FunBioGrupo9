@@ -67,7 +67,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 |--------------|-----------------------------------|----------------------------|
 | TERMOCICLADOR PARA EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real. Enfriamiento activo a 4º C. Función de cubado instantáneo. Rango de temperatura: 39.2-210.2 °F.|![](https://www.apmedical.es/wp-content/uploads/2020/12/1-termociclador-edvocycler-2.jpg)|
 |TERMOCICLADOR EN TIEMPO REAL PARA EDUCACION, PRACTICAS DE LABORATORIO|Termociclador de PCR a Tiempo Real. Económico – Fácil de utilizar y programar. Capacidad para 8 muestras de 0. 2 ml. Requiere ordenador adicional.|![](https://www.apmedical.es/wp-content/uploads/2020/12/termociclador-8-1.jpg)| 
-|TERMOCICLADOR DE PCR A TIEMPO REAL| Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería con capacidad para 8 muestras de 0. 2 ml.|
+|TERMOCICLADOR DE PCR A TIEMPO REAL| Termociclador para PCR tiempo real en microdispositivos, portátil y fabricado con piezas impresas en 3D y electrónica de estantería con capacidad para 8 muestras de 0. 2 ml.|![] (https://ibb.co/KwzRSbR)|
 
 Requiere ordenador adicional.
 
