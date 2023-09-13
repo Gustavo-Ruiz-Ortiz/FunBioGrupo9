@@ -13,9 +13,9 @@
 ## Análisis del caso:
 
 PCR o reacción en cadena de la polimeras es una técnica usada para la replicación del ADN cada etapa de este proceso trata del aumento o disminución de temperaturas para un ciclo completo. Son tres etapas : 
-**1.** Desnaturalización.En esta etapa, las cadenas de ADN son calentadas y separadas a una temperatura de 92º a 98º C durante 20-30 segundos, esto con el fin de romper los enlaces puentes de hidrógenos que existe entre las dos hebras de la cadena de ADN y asi poder separarlas.
-**2.** Hibridación. En esta etapa los primers se alinean al extremo 3’, de esta forma necesitamos reducir la temperatura.
-**3.** Extensión. Se permitirá sintetizar la nuevas cadenas de ADN, dependiendo del tipo de enzima polimerasa se elevará la temperatura hasta 72ºC.
+1. Desnaturalización.En esta etapa, las cadenas de ADN son calentadas y separadas a una temperatura de 92º a 98º C durante 20-30 segundos, esto con el fin de romper los enlaces puentes de hidrógenos que existe entre las dos hebras de la cadena de ADN y asi poder separarlas.
+2. Hibridación. En esta etapa los primers se alinean al extremo 3’, de esta forma necesitamos reducir la temperatura.
+3. Extensión. Se permitirá sintetizar la nuevas cadenas de ADN, dependiendo del tipo de enzima polimerasa se elevará la temperatura hasta 72ºC.
 
 
 
