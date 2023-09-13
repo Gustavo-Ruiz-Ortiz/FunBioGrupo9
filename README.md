@@ -41,8 +41,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 
 ## FORMULACIÓN DE LA PROBLEMÁTICA
-[¡IMPORTANT]
-¿Cómo podríamos diseñar un dispositivo de bajo costo, en centros de salud donde estos son escasos, y que cumpla con funciones básicas como el análisis de expresión genética?
+***¿Cómo podríamos diseñar un dispositivo de bajo costo, en centros de salud donde estos son escasos, y que cumpla con funciones básicas como el análisis de expresión genética?***
 
 ### Estado del Arte 
 
