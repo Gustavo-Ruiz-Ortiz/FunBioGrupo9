@@ -13,9 +13,9 @@
 ## Análisis del caso:
 
 PCR o reacción en cadena de la polimeras es una técnica usada para la replicación del ADN cada etapa de este proceso trata del aumento o disminución de temperaturas para un ciclo completo. Son tres etapas : 
-1. Desnaturalización.En esta etapa, las cadenas de ADN son calentadas y separadas a una temperatura de 92º a 98º C durante 20-30 segundos, esto con el fin de romper los enlaces puentes de hidrógenos que existe entre las dos hebras de la cadena de ADN y asi poder separarlas.
-2. Hibridación. En esta etapa los primers se alinean al extremo 3’, de esta forma necesitamos reducir la temperatura.
-3. Extensión. Se permitirá sintetizar la nuevas cadenas de ADN, dependiendo del tipo de enzima polimerasa se elevará la temperatura hasta 72ºC.
+**1.** Desnaturalización.En esta etapa, las cadenas de ADN son calentadas y separadas a una temperatura de 92º a 98º C durante 20-30 segundos, esto con el fin de romper los enlaces puentes de hidrógenos que existe entre las dos hebras de la cadena de ADN y asi poder separarlas.
+**2.** Hibridación. En esta etapa los primers se alinean al extremo 3’, de esta forma necesitamos reducir la temperatura.
+**3.** Extensión. Se permitirá sintetizar la nuevas cadenas de ADN, dependiendo del tipo de enzima polimerasa se elevará la temperatura hasta 72ºC.
 
 
 
@@ -25,11 +25,11 @@ Gracias a este proceso de reproducción / replicación del ADN, se crearon las P
 
 Dado a que la prueba PCR permite detectar todo tipo de anomalías genéticas en las muestras de los pacientes, se pueden detectar un gran número de enfermedades infecciosas o similares. Unos ejemplos son los siguientes:
 
-Virus
-Agente patógenos (Listeria, Legionella, Borrelia, Leptospira, Chlamydia)
-Cáncer
-Retrovirus (VIH, Hepatitis C)
-Parásitos (Toxoplasma, Trypanosoma, Cryptosporidium)
+* Virus
+* Agente patógenos (Listeria, Legionella, Borrelia, Leptospira, Chlamydia)
+* Cáncer
+* Retrovirus (VIH, Hepatitis C)
+* Parásitos (Toxoplasma, Trypanosoma, Cryptosporidium)
 
 La prueba de PCR se desarrolla mediante el siguiente procedimiento:
 
@@ -79,15 +79,14 @@ Requiere ordenador adicional.
 |NinjaPCR|Más pequeño y más fácil de construir,cambia de plataforma de Adobe AIR a WiFi, casi todas las PC y teléfonos inteligentes son compatibles, todo en el navegador,mantenga la precisión de temperatura baja a alta, actualización automática para nuevas funciones (por ejemplo, soporte IFTTT programado).|![](https://camo.githubusercontent.com/a9a0cf95e2a95d366ea2541dfef33168138d7b727e7e6c9dda65e8b9240008ce/68747470733a2f2f6e696e6a617063722e746f72692e73742f6d616b65722f696d616765732f6d616b65725f616e645f6b6974352e6a7067)|
 ## Propuesta de Solución
 ### FUNCIONALES:
-° Replicación del ADN mediante el uso de un chip microfluídico/n
-° Regulación de temperatura en intervalos
-° Interfaz guiada
++ Replicación del ADN mediante el uso de un chip microfluídico
++ Regulación de temperatura en intervalos
++ Interfaz guiada
 ### NO FUNCIONALES:
-° Pantalla táctil
-° Capacidad de analizar una muestra 
-° Ligero
-° Accesible para estudiantes de secundaria
-
++ Pantalla táctil
++ Capacidad de analizar una muestra
++ Ligero
++ Accesible para estudiantes de secundaria
 
 ## Bibliografía
 
