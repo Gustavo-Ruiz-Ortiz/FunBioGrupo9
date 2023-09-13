@@ -45,14 +45,8 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 ### Estado del Arte 
 
-| Nombre       |Ventajas                           | Dibujo                     |
-|--------------|-----------------------------------|----------------------------|
-|Termociclador YR01871|Favorece la experimentación diaria protegiendo las reacciones, usa un sistema térmico Heal Force, logrando la uniformidad excepcional y resultados significativos.|![](https://kalstein.com.pe/wp-content/uploads/2022/12/YR01871.jpg)|
-|Termociclador YR01867|Uso eficiente del equipo por tres usuarios de forma independiente, protegiendo de manera eficiente la información, además de un potente sistema de procesamiento, una pantalla táctil, tapa caliente.|![](https://ef6ythi22o5.exactdn.com/wp-content/uploads/2022/12/YR01867-Kalstein-K.jpg?strip=all&lossy=1&ssl=1)| 
-|Termociclador YR01868|Posee una pantalla táctil intuitiva que permite que ejecutar PCR sea más fácil; además de una opción a distancia gracias a su software de administración.|![](https://kalstein.com.mx/wp-content/uploads/2022/12/YR01868-IMG.jpg)|
-|Termociclador YR01869| Ofrece 12 canales de temperatura y una precisión muy buena, pantalla LCD, interfaz intuitiva y regulador de presión de tapa caliente de dos tapas.|![](https://kalstein.com.mx/wp-content/uploads/2022/12/YR01869-IMG.jpg)|
-
 ## Estado del Arte Científico
+
 ### Patentes de invención o utilidad
 
 | Código     |Ventajas                           | Imagen                     |
