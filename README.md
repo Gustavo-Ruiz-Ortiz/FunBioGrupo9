@@ -41,7 +41,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 
 ## FORMULACIÓN DE LA PROBLEMÁTICA
-***¿Cómo podríamos diseñar un termociclador microfluídico que sea portatil para trabajo en campo?***
+***¿Cómo podríamos diseñar un termociclador microfluídico que sea portatil para estudio en campo enfocado en la educación?***
 
 
 ## Estado del Arte Científico
@@ -83,7 +83,7 @@ Requiere ordenador adicional.
 + Capacidad de analizar una muestra
 + Ligero
 + Accesible para estudiantes
-+ + Interfaz guiada
++ Interfaz guiada
 
 ## Bibliografía
 
