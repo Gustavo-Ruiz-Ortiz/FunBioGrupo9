@@ -77,13 +77,13 @@ Requiere ordenador adicional.
 **FUNCIONALES:**
 + Replicación del ADN mediante el uso de un chip microfluídico
 + Regulación de temperatura en intervalos
-+ Interfaz guiada
 
 **NO FUNCIONALES:**
 + Pantalla táctil
 + Capacidad de analizar una muestra
 + Ligero
-+ Accesible para estudiantes de secundaria
++ Accesible para estudiantes
++ + Interfaz guiada
 
 ## Bibliografía
 
