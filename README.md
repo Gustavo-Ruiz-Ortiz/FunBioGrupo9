@@ -60,7 +60,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 | Nombre     |Características                           | Imagen                     | Precio                  |
 |--------------|-----------------------------------|----------------------------|------------------------------|
-| TERMOCICLADOR PARA EDUCACIÓN, PRÁCTICAS DE LABORATORIO|Termociclador con capacidad para 48 microtubos PCR de 0,2 ml en diferentes formatos.Pantalla táctil a color HD de 7 pulgadas, que muestra datos de ciclado en tiempo real. Enfriamiento activo a 4º C. Función de cubado instantáneo. Rango de temperatura: 39.2-210.2 °F.|![](https://www.apmedical.es/wp-content/uploads/2020/12/1-termociclador-edvocycler-2.jpg)|
+| TERMOCICLADOR EN TIEMPO REAL miniPCR® mini16|Termociclador portatil que cuenta con una app donde se puede visualizar el proceso de replicación del adn|![](https://www.minipcr.com/wp-content/uploads/DSC_0234-1-450x450.png)|
 |PCR DIGITAL (dPCR) Naica®System|La muestra fluye a través de una red de microcanales y luego se divide en una gran variedad de gotitas individuales organizadas formando un cristal.|![](https://bonsailab.com/wp-content/uploads/2021/07/naica-system-updated-1200x675-1-600x338.jpg)| 
 |Termociclador microfluídico ChipGenie® edition T| El instrumento ChipGenie® edition TSO permite controlar la temperatura de los chips microfluídicos en formato de portaobjetos. Se puede realizar tanto una temperatura fija como ciclos de temperatura para permitir, por ejemplo, una PCR rápida en el chip. El ChipGenie® edition TSO está equipado con una unidad de lectura basada en la fluorescencia para llevar a cabo la detección óptica en los chips microfluídicos de la plataforma ChipShop siguiendo el espacio de una placa de 384 pocillos de 4,5 mm con posiciones fijas de lectura.|![](https://img.medicalexpo.es/images_me/photo-mg/111519-15498230.webp)|
 
@@ -96,3 +96,4 @@ Requiere ordenador adicional.
 [4] https://patents.google.com/patent/ES2617599T3/es?q=(termociclador)&oq=termociclador
 [5] https://bonsailab.com/producto/workflow/analisis-y-cuantificacion/naicasystem/
 [6] https://www.medicalexpo.es/prod/microfluidic-chipshop-gmbh/product-111519-945527.html
+[7] https://www.medicalexpo.es/prod/amplyus/product-107982-1043126.html
