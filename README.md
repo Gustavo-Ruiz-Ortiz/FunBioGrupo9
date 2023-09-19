@@ -93,7 +93,11 @@ Requiere ordenador adicional.
 [2] En M, Lenin C, De T, Avenida D, Núm M-X. Fundamentos de la reacción en cadena de la polimerasa (PCR) y de la PCR en tiempo real [Internet]. Medigraphic.com. [citado el 31 de agosto de 2023]. Recuperado de: https://www.medigraphic.com/pdfs/invdis/ir-2013/ir132d.pdf  
 
 [3] Grupo 1A - Informe Final de Maqueta Termociclador Convencional y en Tiempo Real [Internet]. Scribd. [cited 2023 Sep 1]. Available from: https://es.scribd.com/document/650243313/Grupo-1A-Informe-Final-de-Maqueta-Termociclador-Convencional-y-en-Tiempo-Real
+
 [4] https://patents.google.com/patent/ES2617599T3/es?q=(termociclador)&oq=termociclador
+
 [5] https://bonsailab.com/producto/workflow/analisis-y-cuantificacion/naicasystem/
+
 [6] https://www.medicalexpo.es/prod/microfluidic-chipshop-gmbh/product-111519-945527.html
+
 [7] https://www.medicalexpo.es/prod/amplyus/product-107982-1043126.html
