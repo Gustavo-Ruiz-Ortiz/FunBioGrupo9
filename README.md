@@ -88,7 +88,7 @@ Requiere ordenador adicional.
 ## Matriz Morfológica
 [![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
 ## Tabla de Valoración
-[![tabla-de-valores.png]_(
+[![tabla-de-valores.png](https://i.postimg.cc/GhHh0XBr/tabla-de-valores.png)](https://postimg.cc/MvJ8Vbbr)
 ## Bibliografía
 
 [1] Bahena-García E, García-Cordero JL. Termociclador de Bajo Costo para Amplificar DNA Mediante Técnica de PCR en Microdispositivos. MCNIB [Internet]. 2014 [citado el 31 de agosto de 2023];1(1):152–5. Recuperado de: https://memoriascnib.mx/index.php/memorias/article/view/196
