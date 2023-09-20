@@ -85,6 +85,9 @@ Requiere ordenador adicional.
 + Ligero
 + Accesible para estudiantes
 + Interfaz guiada
+## Esquema de Funciones
+[![dwada.jpg](https://i.postimg.cc/FHL25mwS/dwada.jpg)](https://postimg.cc/QFj6cL8N)
+[![d5591be1-137d-4242-bfda-f3f7d923adc0.jpg](https://i.postimg.cc/8cc0yVhj/d5591be1-137d-4242-bfda-f3f7d923adc0.jpg)](https://postimg.cc/vxRhBk2s)
 ## Matriz Morfológica
 [![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
 ## Tabla de Valoración
