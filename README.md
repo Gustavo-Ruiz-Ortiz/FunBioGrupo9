@@ -6,8 +6,7 @@
 |--------------|-----------------------------------|
 |RIVERA FERRO VALERIA|ALCANTARA MOROTE ENRIQUE GUILLERMO|
 |[![1244d841-3ef1-41cc-8658-2928c457b7d2.jpg](https://i.postimg.cc/fTm22kYG/1244d841-3ef1-41cc-8658-2928c457b7d2.jpg)](https://postimg.cc/dLQjDsH6)|[![e15b942c-d03a-451e-ab8e-1c9a2bf0fa9d.jpg](https://i.postimg.cc/J7ydXp04/e15b942c-d03a-451e-ab8e-1c9a2bf0fa9d.jpg)](https://postimg.cc/dDYBPmGz)|
-|CABALLERO ORELLANA NICOLAS RENATO|RUIZ ORTIZ GUSTAVO ANDRE
-|
+|CABALLERO ORELLANA NICOLAS RENATO|RUIZ ORTIZ GUSTAVO ANDRE|
 |[![036e769c-1270-4d2e-be2e-b5099c922d52.jpg](https://i.postimg.cc/yW4R31d9/036e769c-1270-4d2e-be2e-b5099c922d52.jpg)](https://postimg.cc/n92r6tqc)|
 |MEDINA SARAYA NICOLE JANETH|
 
