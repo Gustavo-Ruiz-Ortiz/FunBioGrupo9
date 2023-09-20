@@ -58,7 +58,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 ### Productos Comerciales
 
-| Nombre     |Características                           | Imagen                     | Precio                  |
+| Nombre     |Características                           | Imagen                     | Precio                        |
 |--------------|-----------------------------------|----------------------------|------------------------------|
 | TERMOCICLADOR EN TIEMPO REAL miniPCR® mini16|Termociclador portatil que cuenta con una app donde se puede visualizar el proceso de replicación del adn|![](https://www.minipcr.com/wp-content/uploads/DSC_0234-1-450x450.png)| 790 € (s/ 3 1355. 64) |
 |PCR DIGITAL (dPCR) Naica®System|La muestra fluye a través de una red de microcanales y luego se divide en una gran variedad de gotitas individuales organizadas formando un cristal.|![](https://bonsailab.com/wp-content/uploads/2021/07/naica-system-updated-1200x675-1-600x338.jpg)| 
