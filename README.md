@@ -1,14 +1,15 @@
-# Biodiseño Equipo 9
-
-- Nicole Medina
-
-- Gustavo Ruiz
-
-- Nicolas Caballero
-
-- Enrique Alcantara
-
-- Valeria Rivera
+![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
+##Fundamentos de Biodiseño-Grupo 9  
+[![63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg](https://i.postimg.cc/ZK9tT6XX/63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg)](https://postimg.cc/0bqHnKkC)
+###Integrantes 
+| [![b35d58f5-1f96-4576-b9dd-d9bec68810f5.jpg](https://i.postimg.cc/rwThvcJK/b35d58f5-1f96-4576-b9dd-d9bec68810f5.jpg)](https://postimg.cc/ZCfFdGXS) |[![c9e3f20b-02b8-49b8-81db-db8b078440f9.jpg](https://i.postimg.cc/nV6SGq9K/c9e3f20b-02b8-49b8-81db-db8b078440f9.jpg)](https://postimg.cc/Cds4FBNd) |
+|--------------|-----------------------------------|----------------------------|
+|RIVERA FERRO VALERIA |ALCANTARA MOROTE ENRIQUE GUILLERMO|
+|[![1244d841-3ef1-41cc-8658-2928c457b7d2.jpg](https://i.postimg.cc/fTm22kYG/1244d841-3ef1-41cc-8658-2928c457b7d2.jpg)](https://postimg.cc/dLQjDsH6)|[![e15b942c-d03a-451e-ab8e-1c9a2bf0fa9d.jpg](https://i.postimg.cc/J7ydXp04/e15b942c-d03a-451e-ab8e-1c9a2bf0fa9d.jpg)](https://postimg.cc/dDYBPmGz)|
+|CABALLERO ORELLANA NICOLAS RENATO|RUIZ ORTIZ GUSTAVO ANDRE
+|
+|[![036e769c-1270-4d2e-be2e-b5099c922d52.jpg](https://i.postimg.cc/yW4R31d9/036e769c-1270-4d2e-be2e-b5099c922d52.jpg)](https://postimg.cc/n92r6tqc)|
+|MEDINA SARAYA NICOLE JANETH|
 
 ## Análisis del caso:
 
