@@ -93,6 +93,18 @@ Requiere ordenador adicional.
 [![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
 ## Tabla de Valoración
 
+Hemos realizado una tabla de valoracion 10 criterios
++ Facilidad de uso: esperamos un prototipo sencillo de aprender y comprender para el usuario.
++ Portabilidad: Un criterio importante para este proyecto es que pueda ser llevado fuera de un laboratorio de una forma cómoda.
++ Costo de tecnología: Es necesario un precio comodo para cada material que usaremos
++ Costo de operación: cuánto nos costará realizar el chip,el ensamblaje,etc.
++ Viabilidad: Una mayor probabilidad de llevarse a cabo.
++ Tamaño: Se busca un tamaño reducido respecto a los termocicladores comerciales.
++ Seguridad: No exista riesgo de quemaduras,heridas,entre otros  al usar el termociclador.
++ Nivel de innovación: Un producto innovador.
++ Disponibilidad de repuesto: Cuando algún elemento del termociclador se malogre, consigas un respuesto de manera sencilla sin dificultades
++ Posibilidad de automatización:Con posibles mejores en el futuro, pueda realizar sus funciones con muy poca intervención humana.
+
 [![tabla-de-valores2.png](https://i.postimg.cc/VsFDyFx7/tabla-de-valores2.png)](https://postimg.cc/3Wdgm2Jp)
 ## Bibliografía
 
