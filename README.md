@@ -51,7 +51,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 | Código     |Ventajas                           | Imagen                     |
 |--------------|-----------------------------------|----------------------------|
-|EP2703497A1|Un chip de microfluidos diseñado para generar gotitas acuosas destinadas a la amplificación de ácidos nucleicos consta de los siguientes componentes: 1)Un primer compartimento que almacena un líquido hidrófobo y tiene al menos una entrada. Cada entrada está conectada a un primer canal microfluídico que vincula el primer compartimento con un recipiente de reacción. 2)Entre 8, 16, 32 o 48 elementos que incluyen un segundo compartimento destinado a contener una solución hidrófila. Cada segundo compartimento tiene una entrada vertical que se conecta a un segundo canal microfluídico que a su vez se conecta al primer canal microfluídico. El primer compartimento se encuentra en un nivel inferior en relación al segundo compartimento. 3)El chip presenta al menos una unión en forma de "T" entre el primer y segundo canal microfluídico. Destaca que el extremo del segundo canal microfluídico se conecta de forma perpendicular al primer canal microfluídico.|![]()| 
+|EP2703497A1|Un chip de microfluidos diseñado para generar gotitas acuosas destinadas a la amplificación de ácidos nucleicos consta de los siguientes componentes: 1)Un primer compartimento que almacena un líquido hidrófobo y tiene al menos una entrada. Cada entrada está conectada a un primer canal microfluídico que vincula el primer compartimento con un recipiente de reacción. 2)Entre 8, 16, 32 o 48 elementos que incluyen un segundo compartimento destinado a contener una solución hidrófila. Cada segundo compartimento tiene una entrada vertical que se conecta a un segundo canal microfluídico que a su vez se conecta al primer canal microfluídico. El primer compartimento se encuentra en un nivel inferior en relación al segundo compartimento. 3)El chip presenta al menos una unión en forma de "T" entre el primer y segundo canal microfluídico. Destaca que el extremo del segundo canal microfluídico se conecta de forma perpendicular al primer canal microfluídico. [4] |![]()| 
 |ES2891303T3|Sistema automatizado para analizar ácidos nucleicos que incluye módulos de lisis, purificación, PCR y detección, todos conectados mediante microfluídica. Este sistema está diseñado para detectar diferentes secuencias de ácidos nucleicos en paralelo mediante la amplificación de múltiples secuencias y la lectura simultánea de hibridación en micromatrices.|![]()|
 |ES2617599T3|Sistema diseñado para el diagnostico de variedades de muestras en paralelo.Además utiliza un procesador que permite acceder a un tiempo de ciclo de detección y podrá recibir o acceder a una etapa de protocolo. |![]()|
 
@@ -114,10 +114,12 @@ Hemos realizado una tabla de valoracion 10 criterios
 
 [3] Grupo 1A - Informe Final de Maqueta Termociclador Convencional y en Tiempo Real [Internet]. Scribd. [cited 2023 Sep 1]. Available from: https://es.scribd.com/document/650243313/Grupo-1A-Informe-Final-de-Maqueta-Termociclador-Convencional-y-en-Tiempo-Real
 
-[4] https://patents.google.com/patent/ES2617599T3/es?q=(termociclador)&oq=termociclador
+[4] https://worldwide.espacenet.com/patent/search?q=pn%3DEP2703497A1
 
-[5] https://bonsailab.com/producto/workflow/analisis-y-cuantificacion/naicasystem/
+[5] https://patents.google.com/patent/ES2617599T3/es?q=(termociclador)&oq=termociclador
 
-[6] https://www.medicalexpo.es/prod/microfluidic-chipshop-gmbh/product-111519-945527.html
+[6] https://bonsailab.com/producto/workflow/analisis-y-cuantificacion/naicasystem/
 
-[7] https://www.medicalexpo.es/prod/amplyus/product-107982-1043126.html
+[7] https://www.medicalexpo.es/prod/microfluidic-chipshop-gmbh/product-111519-945527.html
+
+[8] https://www.medicalexpo.es/prod/amplyus/product-107982-1043126.html
