@@ -92,6 +92,7 @@ Requiere ordenador adicional.
 ## Matriz Morfológica
 [![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
 ## Tabla de Valoración
+
 [![tabla-de-valores2.png](https://i.postimg.cc/VsFDyFx7/tabla-de-valores2.png)](https://postimg.cc/3Wdgm2Jp)
 ## Bibliografía
 
