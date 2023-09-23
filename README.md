@@ -37,7 +37,8 @@ Toma de una fuente de ADN (sangre, saliva o tejido)
 Se añade la muestra en una màquina especial donde es añadida una enzima polimerasa para que se produzca la replicación
 Luego de una hora y el ADN se replicara millones de veces, la máquina indicará una anomalía en el código genético
 
-La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, cuya función esencial para la replicación correcta del adn es mantener los ciclos de temperatura necesarios para llevar a cabo la reacción en cadena. 
+La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, cuya función esencial para la replicación correcta del adn es mantener los ciclos de temperatura necesarios para llevar a cabo la reacción en cadena.
+## PROBLEMATICA
 
 
 ## FORMULACIÓN DE LA PROBLEMÁTICA
