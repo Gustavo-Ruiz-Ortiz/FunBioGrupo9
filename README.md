@@ -70,8 +70,8 @@ Requiere ordenador adicional.
 ### Termocicladores OpenHardware
 | Nombre     |Características                           | Imagen                     |Costo de construcción               |
 |--------------|-----------------------------------|----------------------------|-------------------------|
-| Arduino PCR |Es un termociclador muy económico pero preciso que se puede construir con pocos pasos y materiales muy accesibles y populares, este dispositivo utiliza un Arduino Mini. Este proyecto utiliza Arduino para controlar dos resistencias de alta potencia para calentar la muestra, un ventilador de computadora para enfriar la muestra y un termopar para rastrear la temperatura. Este diseño admite dos muestras a la vez, pero podría ampliarse para dar cabida a más muestras. [9] |![](https://content.instructables.com/FMX/HYHA/H4AGJRQD/FMXHYHAH4AGJRQD.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=27f98a737779d150ccb8fd76958b5378)| 85 USD | 
-|Chai Open qPCR|Inicie una prueba en el laboratorio, vea los resultados desde su casa o desde cualquier lugar donde tenga Internet.O lleve Open qPCR al campo. Construido como un tanque diminuto y con un peso de sólo 4 kg, es fácil de transportar y puede funcionar en cualquier lugar donde haya energía. Tiene un costo de $5799.|![](https://www.chaibio.com/assets/products/openqPCR/chai-page/Open-qPCR-7dff2e69b70d96490b173ab6b7a1e3e3d37ad6da3d7f4d2057cf5f682151f352.webp)| 
+| Arduino PCR |Es un termociclador muy económico pero preciso que se puede construir con pocos pasos y materiales muy accesibles y populares, este dispositivo utiliza un Arduino Mini. Este proyecto utiliza Arduino para controlar dos resistencias de alta potencia para calentar la muestra, un ventilador de computadora para enfriar la muestra y un termopar para rastrear la temperatura. Este diseño admite dos muestras a la vez, pero podría ampliarse para dar cabida a más muestras. [9] |![](https://content.instructables.com/FMX/HYHA/H4AGJRQD/FMXHYHAH4AGJRQD.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=27f98a737779d150ccb8fd76958b5378)| $ 85 | 
+|Chai Open qPCR|Inicie una prueba en el laboratorio, vea los resultados desde su casa o desde cualquier lugar donde tenga Internet.O lleve Open qPCR al campo. Construido como un tanque diminuto y con un peso de sólo 4 kg, es fácil de transportar y puede funcionar en cualquier lugar donde haya energía. [10] |![](https://www.chaibio.com/assets/products/openqPCR/chai-page/Open-qPCR-7dff2e69b70d96490b173ab6b7a1e3e3d37ad6da3d7f4d2057cf5f682151f352.webp)| $ 5799 |
 |NinjaPCR|Más pequeño y más fácil de construir,cambia de plataforma de Adobe AIR a WiFi, casi todas las PC y teléfonos inteligentes son compatibles, todo en el navegador,mantenga la precisión de temperatura baja a alta, actualización automática para nuevas funciones (por ejemplo, soporte IFTTT programado).|![](https://camo.githubusercontent.com/a9a0cf95e2a95d366ea2541dfef33168138d7b727e7e6c9dda65e8b9240008ce/68747470733a2f2f6e696e6a617063722e746f72692e73742f6d616b65722f696d616765732f6d616b65725f616e645f6b6974352e6a7067)|
 ## Propuesta de Solución
 ***Termociclador microfluídico orientado a educación superior***
@@ -125,5 +125,7 @@ Hemos realizado una tabla de valoracion 10 criterios
 [8] https://www.medicalexpo.es/prod/microfluidic-chipshop-gmbh/product-111519-945527.html
 
 [9] https://www.instructables.com/Arduino-PCR-thermal-cycler-for-under-85/ 
+
+[10] https://www.chaibio.com/openqpcr
 
 
