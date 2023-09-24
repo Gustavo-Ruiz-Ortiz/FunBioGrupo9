@@ -105,7 +105,7 @@ Hemos realizado una tabla de valoracion 10 criterios
 + Disponibilidad de repuesto: Cuando algún elemento del termociclador se malogre, consigas un respuesto de manera sencilla sin dificultades
 + Posibilidad de automatización:Con posibles mejores en el futuro, pueda realizar sus funciones con muy poca intervención humana.
 
-[![tabla-de-valores2.png](https://i.postimg.cc/VsFDyFx7/tabla-de-valores2.png)](https://postimg.cc/3Wdgm2Jp)
+[![tablas3.png](https://i.postimg.cc/R04k0fDx/tablas3.png)](https://postimg.cc/0zXWW6vV)
 ## Bibliografía
 
 [1] Bahena-García E, García-Cordero JL. Termociclador de Bajo Costo para Amplificar DNA Mediante Técnica de PCR en Microdispositivos. MCNIB [Internet]. 2014 [citado el 31 de agosto de 2023];1(1):152–5. Recuperado de: https://memoriascnib.mx/index.php/memorias/article/view/196
