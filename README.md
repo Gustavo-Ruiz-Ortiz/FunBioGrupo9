@@ -49,7 +49,7 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 
 ### Patentes de invención o utilidad
 
-| Código     |Ventajas                           | Imagen                     |
+| Código     |Descripción                           | Imagen                     |
 |--------------|-----------------------------------|----------------------------|
 |EP2703497A1|Un chip de microfluidos diseñado para generar gotitas acuosas destinadas a la amplificación de ácidos nucleicos consta de los siguientes componentes: a) Un primer compartimento que almacena un líquido hidrófobo y tiene al menos una entrada. Cada entrada está conectada a un primer canal microfluídico que vincula el primer compartimento con un recipiente de reacción. b) Entre 8, 16, 32 o 48 elementos que incluyen un segundo compartimento destinado a contener una solución hidrófila. Cada segundo compartimento tiene una entrada vertical que se conecta a un segundo canal microfluídico que a su vez se conecta al primer canal microfluídico. El primer compartimento se encuentra en un nivel inferior en relación al segundo compartimento. c) El chip presenta al menos una unión en forma de "T" entre el primer y segundo canal microfluídico. Destaca que el extremo del segundo canal microfluídico se conecta de forma perpendicular al primer canal microfluídico. [4] |![]()| 
 |ES2891303T3|Sistema automatizado para analizar ácidos nucleicos que incluye módulos de lisis, purificación, PCR y detección, todos conectados mediante microfluídica. Este sistema está diseñado para detectar diferentes secuencias de ácidos nucleicos en paralelo mediante la amplificación de múltiples secuencias y la lectura simultánea de hibridación en micromatrices.|![]()|
