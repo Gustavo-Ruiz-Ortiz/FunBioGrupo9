@@ -63,8 +63,8 @@ La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, 
 | Nombre     |Características                           | Imagen                     | Precio                        |
 |--------------|-----------------------------------|----------------------------|------------------------------|
 | TERMOCICLADOR EN TIEMPO REAL miniPCR® mini16|Es un dispositivo de laboratorio pequeño y portátil para copiar material genético (ADN). La miniPCR tiene espacio para hasta 16 muestras. Este dispositivo se puede controlar y programar mediante una aplicación gratuita en su celular o computadora. Se puede conectar mediante Bluetooth o USB. No es necesario mantener el dispositivo conectado a la computadora, tableta o celular para ejecutar el programa. [6] |![](https://www.minipcr.com/wp-content/uploads/DSC_0234-1-450x450.png)| 790 € (s/ 3 1355. 64) |
-|PCR DIGITAL (dPCR) Naica®System|Este dispositivo se encarga de dividir la muestra en grandes conjuntos de gotitas individuales, también llamadas cristales de gotitas, mediante una red de microcristales. Usa tecnología Crystal Digital PCR™ para que las gotas tengan el mismo tamaño y así poder obtener resultados confiables. Para finalizar, la PCR amplifica el objetivo fluorescente en gotas que se pueden leer para la cuantificación absoluta de los ácidos nucleicos. [7] |![](https://bonsailab.com/wp-content/uploads/2021/07/naica-system-updated-1200x675-1-600x338.jpg)| 
-|Termociclador microfluídico ChipGenie® edition T| El instrumento ChipGenie® edition TSO permite controlar la temperatura de los chips microfluídicos en formato de portaobjetos. Se puede realizar tanto una temperatura fija como ciclos de temperatura para permitir, por ejemplo, una PCR rápida en el chip. El ChipGenie® edition TSO está equipado con una unidad de lectura basada en la fluorescencia para llevar a cabo la detección óptica en los chips microfluídicos de la plataforma ChipShop siguiendo el espacio de una placa de 384 pocillos de 4,5 mm con posiciones fijas de lectura. [8] |![](https://img.medicalexpo.es/images_me/photo-mg/111519-15498230.webp)|
+|PCR DIGITAL (dPCR) Naica®System|Este dispositivo se encarga de dividir la muestra en grandes conjuntos de gotitas individuales, también llamadas cristales de gotitas, mediante una red de microcristales. Usa tecnología Crystal Digital PCR™ para que las gotas tengan el mismo tamaño y así poder obtener resultados confiables. Para finalizar, la PCR amplifica el objetivo fluorescente en gotas que se pueden leer para la cuantificación absoluta de los ácidos nucleicos. [7] |![](https://bonsailab.com/wp-content/uploads/2021/07/naica-system-updated-1200x675-1-600x338.jpg)| en consulta |
+|Termociclador microfluídico ChipGenie® edition T| El instrumento ChipGenie® edition TSO permite controlar la temperatura de los chips microfluídicos en formato de portaobjetos. Se puede realizar tanto una temperatura fija como ciclos de temperatura para permitir, por ejemplo, una PCR rápida en el chip. El ChipGenie® edition TSO está equipado con una unidad de lectura basada en la fluorescencia para llevar a cabo la detección óptica en los chips microfluídicos de la plataforma ChipShop siguiendo el espacio de una placa de 384 pocillos de 4,5 mm con posiciones fijas de lectura. [8] |![](https://img.medicalexpo.es/images_me/photo-mg/111519-15498230.webp)| en consulta |
 
 Requiere ordenador adicional.
 
@@ -78,8 +78,12 @@ Requiere ordenador adicional.
 ***Termociclador microfluídico portátil para trabajo en campo***
 ### Lista de Requerimientos
 **FUNCIONALES:**
-+ Replicación del ADN mediante el uso de un chip microfluídico
-+ Regulación de temperatura en intervalos
++ Regular la cantidad de energía utilizada para no utilizar corriente eléctrica por un largo periodo de uso.
++ Cambiar temperatura a medida que siguen los ciclos de replicación.
++ Monitorear el estado de la muestra durante su procesamiento.
++ Enviar datos sobre el estado de la muestra al celular o computador.
++ Almacenar información importante sobre tipos de procesos utilizados en el dispositivo.
++ Medir temperaturas, tiempo y copias del gen obtenido.
 
 **NO FUNCIONALES:**
 + Pantalla táctil
@@ -87,6 +91,9 @@ Requiere ordenador adicional.
 + Ligero
 + Accesible para estudiantes
 + Interfaz guiada
+
+## Caja Negra
+
 ## Esquema de Funciones
 [![dwada.jpg](https://i.postimg.cc/FHL25mwS/dwada.jpg)](https://postimg.cc/QFj6cL8N)
 [![d5591be1-137d-4242-bfda-f3f7d923adc0.jpg](https://i.postimg.cc/8cc0yVhj/d5591be1-137d-4242-bfda-f3f7d923adc0.jpg)](https://postimg.cc/vxRhBk2s)
