@@ -40,8 +40,9 @@ Luego de una hora y el ADN se replicara millones de veces, el dispositivo indica
 
 El dispositivo especializado en las pruebas PCR, se denomina Termociclador, cuya función esencial para la replicación correcta del adn es mantener constantes los ciclos de temperatura necesarios para llevar a cabo la reacción en cadena.
 ## PROBLEMATICA
-En carreras relacionadas con la actividad biologica en los seres vivos,en varias ocasiones se utiliza un termociclador para enseñanza.Existen cursos que se realizan fuera de un aula de clases, en caso usar un termociclador tendrian que tomar la muestra ,llevarla al laboratorio sin que se contamine y realizar el proceso de replicacion del ADN en un termociclador.Esta situacion prsenta dificultades,significa un mayor tiempo para obtener resultados(debido a la distancia y el recorrido), al tomar la muestra en el exterior hay posibilidad que en el traslado se contamine,mayor trabajo para los docentes y estudiantes,entre otras.
-Esto se debe a que no hay un termociclador de tamaño pequeño, que reduzca la posibilidad de  contaminacion en la muestra y que realice la mezcla de los primers y enzimas.
+En carreras relacionadas con la actividad biológica en los seres vivos,en varias ocasiones se utiliza un termociclador para enseñanza de replicacion del ADN y relacionados.Existen cursos que se realizan fuera de un aula de clases, en caso sea necesario usar un termociclador tendrían que tomar la muestra en el lugar que esten, llevarla al laboratorio sin que se contamine en el recorrido y realizar el proceso de replicación del ADN en un termociclador.Esta situación presenta dificultades,significa un mayor tiempo para obtener resultados(debido a la distancia y el recorrido), al tomar la muestra en el exterior hay posibilidad que en el traslado se contamine, mayor trabajo para los docentes y estudiantes,entre otras.
+Esto se debe a que no hay un termociclador de tamaño pequeño, que reduzca la posibilidad de  contaminación en la muestra y que realice la mezcla de los primers y enzimas.
+
 
 
 ## FORMULACIÓN DE LA PROBLEMÁTICA
