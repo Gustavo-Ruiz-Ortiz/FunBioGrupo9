@@ -35,10 +35,10 @@ Dado a que la prueba PCR permite detectar todo tipo de anomalías genéticas en 
 La prueba de PCR se desarrolla mediante el siguiente procedimiento:
 
 Toma de una fuente de ADN (sangre, saliva o tejido)
-Se añade la muestra en una màquina especial donde es añadida una enzima polimerasa para que se produzca la replicación
-Luego de una hora y el ADN se replicara millones de veces, la máquina indicará una anomalía en el código genético
+Se añade la muestra en un dispositivo de laboratorio donde es añadida una enzima polimerasa para que se produzca la replicación
+Luego de una hora y el ADN se replicara millones de veces, el dispositivo indicará una anomalía en el código genético
 
-La máquina especial utilizada para las pruebas PCR, se denomina Termociclador, cuya función esencial para la replicación correcta del adn es mantener los ciclos de temperatura necesarios para llevar a cabo la reacción en cadena.
+El dispositivo especializado en las pruebas PCR, se denomina Termociclador, cuya función esencial para la replicación correcta del adn es mantener constantes los ciclos de temperatura necesarios para llevar a cabo la reacción en cadena.
 ## PROBLEMATICA
 
 
