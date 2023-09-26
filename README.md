@@ -78,7 +78,7 @@ Requiere ordenador adicional.
 |Chai Open qPCR|Inicie una prueba en el laboratorio, vea los resultados desde su casa o desde cualquier lugar donde tenga Internet.O lleve Open qPCR al campo. Construido como un tanque diminuto y con un peso de sólo 4 kg, es fácil de transportar y puede funcionar en cualquier lugar donde haya energía. [10] |![](https://www.chaibio.com/assets/products/openqPCR/chai-page/Open-qPCR-7dff2e69b70d96490b173ab6b7a1e3e3d37ad6da3d7f4d2057cf5f682151f352.webp)| $ 5799 |
 |NinjaPCR|Más pequeño y más fácil de construir,cambia de plataforma de Adobe AIR a WiFi, casi todas las PC y teléfonos inteligentes son compatibles, todo en el navegador,mantenga la precisión de temperatura baja a alta, actualización automática para nuevas funciones (por ejemplo, soporte IFTTT programado). [11] |![](https://camo.githubusercontent.com/a9a0cf95e2a95d366ea2541dfef33168138d7b727e7e6c9dda65e8b9240008ce/68747470733a2f2f6e696e6a617063722e746f72692e73742f6d616b65722f696d616765732f6d616b65725f616e645f6b6974352e6a7067)| $ 499 |
 ## Propuesta de Solución
-***Termociclador microfluídico portátil para trabajo en campo***
+***Termociclador microfluídico portátil para trabajo en campo y/o educación***
 ### LISTA DE REQUERIMIENTOS
 **Funcionales:**
 + Regular la cantidad de energía utilizada para no utilizar corriente eléctrica por un largo periodo de uso.
