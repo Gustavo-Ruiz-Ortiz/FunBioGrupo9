@@ -115,7 +115,13 @@ Hemos realizado una tabla de valoracion 10 criterios
 + Nivel de innovación: Un producto innovador.
 + Disponibilidad de repuesto: Cuando algún elemento del termociclador se malogre, consigas un respuesto de manera sencilla sin dificultades
 + Posibilidad de automatización:Con posibles mejores en el futuro, pueda realizar sus funciones con muy poca intervención humana.
-
++ ## Bocetos del Concepto Seleccionado
+### Boceto 1
+[![boceto-1.png](https://i.postimg.cc/xCngwkFR/boceto-1.png)](https://postimg.cc/4K2zt3G7)
+### Boceto 2
+[![Screenshot-1.png](https://i.postimg.cc/1XPd9CCL/Screenshot-1.png)](https://postimg.cc/5Y7gg3M3)
+### Boceto 3
+[![Screenshot-3.png](https://i.postimg.cc/mk8mTbFH/Screenshot-3.png)](https://postimg.cc/n994kf2F)
 [![tablas3.png](https://i.postimg.cc/R04k0fDx/tablas3.png)](https://postimg.cc/0zXWW6vV)
 ## Bibliografía
 
