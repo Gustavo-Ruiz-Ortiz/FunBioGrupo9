@@ -121,8 +121,7 @@ Hemos realizado una tabla de valoracion 10 criterios
 ### Boceto 2
 [![Screenshot-1.png](https://i.postimg.cc/1XPd9CCL/Screenshot-1.png)](https://postimg.cc/5Y7gg3M3)
 ### Boceto 3
-[![Screenshot-3.png](https://i.postimg.cc/mk8mTbFH/Screenshot-3.png)](https://postimg.cc/n994kf2F)
-[![tablas3.png](https://i.postimg.cc/R04k0fDx/tablas3.png)](https://postimg.cc/0zXWW6vV)
+[![Screenshot-3.png](https://i.postimg.cc/fR38hQWV/Screenshot-3.png)](https://postimg.cc/0zsYp3wv)
 ## Bibliografía
 
 [1] Bahena-García E, García-Cordero JL. Termociclador de Bajo Costo para Amplificar DNA Mediante Técnica de PCR en Microdispositivos. MCNIB [Internet]. 2014 [citado el 31 de agosto de 2023];1(1):152–5. Recuperado de: https://memoriascnib.mx/index.php/memorias/article/view/196
