@@ -95,7 +95,7 @@ Requiere ordenador adicional.
 + Interfaz guiada
 
 ## Caja Negra
-
+[![caja-negra.png](https://i.postimg.cc/VL6cqjSx/caja-negra.png)](https://postimg.cc/fk6FZSfC)
 ## Esquema de Funciones
 [![caja-negra.png](https://i.postimg.cc/VL6cqjSx/caja-negra.png)](https://postimg.cc/fk6FZSfC)
 [![d5591be1-137d-4242-bfda-f3f7d923adc0.jpg](https://i.postimg.cc/8cc0yVhj/d5591be1-137d-4242-bfda-f3f7d923adc0.jpg)](https://postimg.cc/vxRhBk2s)
