@@ -97,7 +97,7 @@ Requiere ordenador adicional.
 ## Caja Negra
 [![caja-negra.png](https://i.postimg.cc/VL6cqjSx/caja-negra.png)](https://postimg.cc/fk6FZSfC)
 ## Esquema de Funciones
-[![caja-negra.png](https://i.postimg.cc/VL6cqjSx/caja-negra.png)](https://postimg.cc/fk6FZSfC)
+[![esq-funciones.png](https://i.postimg.cc/cHCLrVNz/esq-funciones.png)](https://postimg.cc/DJVTNp0Q)
 [![d5591be1-137d-4242-bfda-f3f7d923adc0.jpg](https://i.postimg.cc/8cc0yVhj/d5591be1-137d-4242-bfda-f3f7d923adc0.jpg)](https://postimg.cc/vxRhBk2s)
 ## Matriz Morfológica
 [![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
