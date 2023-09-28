@@ -97,7 +97,7 @@ Requiere ordenador adicional.
 ## Caja Negra
 
 ## Esquema de Funciones
-[![dwada.jpg](https://i.postimg.cc/FHL25mwS/dwada.jpg)](https://postimg.cc/QFj6cL8N)
+[![caja-negra.png](https://i.postimg.cc/VL6cqjSx/caja-negra.png)](https://postimg.cc/fk6FZSfC)
 [![d5591be1-137d-4242-bfda-f3f7d923adc0.jpg](https://i.postimg.cc/8cc0yVhj/d5591be1-137d-4242-bfda-f3f7d923adc0.jpg)](https://postimg.cc/vxRhBk2s)
 ## Matriz Morfológica
 [![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
