@@ -89,7 +89,6 @@ Requiere ordenador adicional.
 + Medir temperaturas, tiempo y copias del gen obtenido.
 
 **No Funcionales:**
-+ Pantalla táctil
 + Capacidad de analizar una muestra
 + Ligero
 + Accesible para estudiantes
