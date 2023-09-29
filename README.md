@@ -3,11 +3,9 @@
 ![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
 [![63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg](https://i.postimg.cc/ZK9tT6XX/63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg)](https://postimg.cc/0bqHnKkC)
 ### Integrantes 
-|[![b35d58f5-1f96-4576-b9dd-d9bec68810f5.jpg](https://i.postimg.cc/rwThvcJK/b35d58f5-1f96-4576-b9dd-d9bec68810f5.jpg)](https://postimg.cc/ZCfFdGXS) |[![c9e3f20b-02b8-49b8-81db-db8b078440f9.jpg](https://i.postimg.cc/nV6SGq9K/c9e3f20b-02b8-49b8-81db-db8b078440f9.jpg)](https://postimg.cc/Cds4FBNd) |
-
+|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de modelado 3D)|RIVERA FERRO VALERIA (Coordinador de electrónica)|
 |--------------|-----------------------------------|
 |[![Whats-App-Image-2023-09-17-at-21-04-11.jpg](https://i.postimg.cc/nVQ13GB8/Whats-App-Image-2023-09-17-at-21-04-11.jpg)](https://postimg.cc/4nstdtWw)|[![Whats-App-Image-2023-09-17-at-21-04-10.jpg](https://i.postimg.cc/QtqjDTWj/Whats-App-Image-2023-09-17-at-21-04-10.jpg)](https://postimg.cc/tZ7Kt75c)|
-|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de modelado 3D)|RIVERA FERRO VALERIA (Coordinador de electrónica)|
 |[![Whats-App-Image-2023-09-17-at-21-04-11-1.jpg](https://i.postimg.cc/sxNdf9fC/Whats-App-Image-2023-09-17-at-21-04-11-1.jpg)](https://postimg.cc/kRKhfStT)|[![Whats-App-Image-2023-09-17-at-21-04-12.jpg](https://i.postimg.cc/tg5cCtDv/Whats-App-Image-2023-09-17-at-21-04-12.jpg)](https://postimg.cc/R3Wdgtkw)|
 |RUIZ ORTIZ GUSTAVO ANDRE (Coordinador de la página Web y programación)|CABALLERO ORELLANA NICOLAS RENATO (Coordinador de planos y bocetos)|
 |[![Whats-App-Image-2023-09-17-at-21-04-10-1.jpg](https://i.postimg.cc/vTpqSPHT/Whats-App-Image-2023-09-17-at-21-04-10-1.jpg)](https://postimg.cc/9wYYDY9H)|
