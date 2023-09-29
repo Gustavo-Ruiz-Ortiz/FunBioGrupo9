@@ -5,7 +5,10 @@
 ### Integrantes 
 |[![b35d58f5-1f96-4576-b9dd-d9bec68810f5.jpg](https://i.postimg.cc/rwThvcJK/b35d58f5-1f96-4576-b9dd-d9bec68810f5.jpg)](https://postimg.cc/ZCfFdGXS) |[![c9e3f20b-02b8-49b8-81db-db8b078440f9.jpg](https://i.postimg.cc/nV6SGq9K/c9e3f20b-02b8-49b8-81db-db8b078440f9.jpg)](https://postimg.cc/Cds4FBNd) |
 |--------------|-----------------------------------|---------------------------|--------------------------|--------------------------|
-|RIVERA FERRO VALERIA (Coordinador de electrónica)|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de modelado 3D)|CABALLERO ORELLANA NICOLAS RENATO (Coordinador de planos y bocetos)|RUIZ ORTIZ GUSTAVO ANDRE (Coordinador de la página Web y programación)|MEDINA SARAYA NICOLE JANETH (Coordinador de Investigación y Coordinadora general)|
+|[![Whats-App-Image-2023-09-17-at-21-04-11.jpg](https://i.postimg.cc/nVQ13GB8/Whats-App-Image-2023-09-17-at-21-04-11.jpg)](https://postimg.cc/4nstdtWw)|[![Whats-App-Image-2023-09-17-at-21-04-10.jpg](https://i.postimg.cc/QtqjDTWj/Whats-App-Image-2023-09-17-at-21-04-10.jpg)](https://postimg.cc/tZ7Kt75c)|[![Whats-App-Image-2023-09-17-at-21-04-11-1.jpg](https://i.postimg.cc/sxNdf9fC/Whats-App-Image-2023-09-17-at-21-04-11-1.jpg)](https://postimg.cc/kRKhfStT)|[![Whats-App-Image-2023-09-17-at-21-04-12.jpg](https://i.postimg.cc/tg5cCtDv/Whats-App-Image-2023-09-17-at-21-04-12.jpg)](https://postimg.cc/R3Wdgtkw)|[![Whats-App-Image-2023-09-17-at-21-04-10-1.jpg](https://i.postimg.cc/vTpqSPHT/Whats-App-Image-2023-09-17-at-21-04-10-1.jpg)](https://postimg.cc/9wYYDY9H)|
+|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de modelado 3D)|RIVERA FERRO VALERIA (Coordinador de electrónica)|RUIZ ORTIZ GUSTAVO ANDRE (Coordinador de la página Web y programación)|CABALLERO ORELLANA NICOLAS RENATO (Coordinador de planos y bocetos)|MEDINA SARAYA NICOLE JANETH (Coordinador de Investigación)|
+
+||||
 |[![1244d841-3ef1-41cc-8658-2928c457b7d2.jpg](https://i.postimg.cc/fTm22kYG/1244d841-3ef1-41cc-8658-2928c457b7d2.jpg)](https://postimg.cc/dLQjDsH6)|[![e15b942c-d03a-451e-ab8e-1c9a2bf0fa9d.jpg](https://i.postimg.cc/J7ydXp04/e15b942c-d03a-451e-ab8e-1c9a2bf0fa9d.jpg)](https://postimg.cc/dDYBPmGz)|[![036e769c-1270-4d2e-be2e-b5099c922d52.jpg](https://i.postimg.cc/yW4R31d9/036e769c-1270-4d2e-be2e-b5099c922d52.jpg)](https://postimg.cc/n92r6tqc)|
 
 ## Análisis del caso:
