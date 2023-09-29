@@ -3,13 +3,9 @@
 ![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
 [![63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg](https://i.postimg.cc/ZK9tT6XX/63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg)](https://postimg.cc/0bqHnKkC)
 ### Integrantes 
-|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de modelado 3D)|RIVERA FERRO VALERIA (Coordinador de electrónica)|
-|--------------|-----------------------------------|
-|[![Whats-App-Image-2023-09-17-at-21-04-11.jpg](https://i.postimg.cc/nVQ13GB8/Whats-App-Image-2023-09-17-at-21-04-11.jpg)](https://postimg.cc/4nstdtWw)|[![Whats-App-Image-2023-09-17-at-21-04-10.jpg](https://i.postimg.cc/QtqjDTWj/Whats-App-Image-2023-09-17-at-21-04-10.jpg)](https://postimg.cc/tZ7Kt75c)|
-|[![Whats-App-Image-2023-09-17-at-21-04-11-1.jpg](https://i.postimg.cc/sxNdf9fC/Whats-App-Image-2023-09-17-at-21-04-11-1.jpg)](https://postimg.cc/kRKhfStT)|[![Whats-App-Image-2023-09-17-at-21-04-12.jpg](https://i.postimg.cc/tg5cCtDv/Whats-App-Image-2023-09-17-at-21-04-12.jpg)](https://postimg.cc/R3Wdgtkw)|
-|RUIZ ORTIZ GUSTAVO ANDRE (Coordinador de la página Web y programación)|CABALLERO ORELLANA NICOLAS RENATO (Coordinador de planos y bocetos)|
-|[![Whats-App-Image-2023-09-17-at-21-04-10-1.jpg](https://i.postimg.cc/vTpqSPHT/Whats-App-Image-2023-09-17-at-21-04-10-1.jpg)](https://postimg.cc/9wYYDY9H)|
-|MEDINA SARAYA NICOLE JANETH (Coordinador de Investigación)|
+|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de modelado 3D)|RIVERA FERRO VALERIA (Coordinador de electrónica)|RUIZ ORTIZ GUSTAVO ANDRE (Coordinador de la página Web y programación)|CABALLERO ORELLANA NICOLAS RENATO (Coordinador de planos y bocetos)|MEDINA SARAYA NICOLE JANETH (Coordinador de Investigación)|
+|--------------|-----------------------------------|--------------|-----------------------------------|--------------|-----------------------------------|
+|[![Whats-App-Image-2023-09-17-at-21-04-11.jpg](https://i.postimg.cc/nVQ13GB8/Whats-App-Image-2023-09-17-at-21-04-11.jpg)](https://postimg.cc/4nstdtWw)|[![Whats-App-Image-2023-09-17-at-21-04-10.jpg](https://i.postimg.cc/QtqjDTWj/Whats-App-Image-2023-09-17-at-21-04-10.jpg)](https://postimg.cc/tZ7Kt75c)|[![Whats-App-Image-2023-09-17-at-21-04-11-1.jpg](https://i.postimg.cc/sxNdf9fC/Whats-App-Image-2023-09-17-at-21-04-11-1.jpg)](https://postimg.cc/kRKhfStT)|[![Whats-App-Image-2023-09-17-at-21-04-12.jpg](https://i.postimg.cc/tg5cCtDv/Whats-App-Image-2023-09-17-at-21-04-12.jpg)](https://postimg.cc/R3Wdgtkw)|[![Whats-App-Image-2023-09-17-at-21-04-10-1.jpg](https://i.postimg.cc/vTpqSPHT/Whats-App-Image-2023-09-17-at-21-04-10-1.jpg)](https://postimg.cc/9wYYDY9H)|
 
 
 ## Análisis del caso:
