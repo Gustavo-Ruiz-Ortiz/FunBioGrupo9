@@ -100,9 +100,9 @@ Requiere ordenador adicional.
 + Interfaz guiada
 
 ## Caja Negra
-[![caja-negra.png](https://i.postimg.cc/VL6cqjSx/caja-negra.png)](https://postimg.cc/fk6FZSfC)
+[![Whats-App-Image-2023-10-01-at-21-21-45.jpg](https://i.postimg.cc/nVCyJk3p/Whats-App-Image-2023-10-01-at-21-21-45.jpg)](https://postimg.cc/SjbTLW0v)
 ## Esquema de Funciones
-[![Whats-App-Image-2023-09-30-at-23-59-01.jpg](https://i.postimg.cc/TYS7839y/Whats-App-Image-2023-09-30-at-23-59-01.jpg)](https://postimg.cc/F7yg3mwm)
+![image](https://github.com/Gustavo-Ruiz-Ortiz/FunBioGrupo9/assets/143019474/8d170c5a-8a4b-48e0-9e26-f03bd32cb72c)
 [![Captura-de-pantalla-2023-09-28-182302.png](https://i.postimg.cc/tgcRL2KG/Captura-de-pantalla-2023-09-28-182302.png)](https://postimg.cc/B8xGFcZm)
 ## Matriz Morfológica
 [![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
