@@ -106,7 +106,7 @@ Requiere ordenador adicional.
 [![Captura-de-pantalla-2023-09-28-182302.png](https://i.postimg.cc/tgcRL2KG/Captura-de-pantalla-2023-09-28-182302.png)](https://postimg.cc/B8xGFcZm)
 ## Matriz Morfológica
 [![parte-1.jpg](https://i.postimg.cc/CLz1VM84/parte-1.jpg)](https://postimg.cc/QHZsQ30B)
-[![parte-22.jpg](https://i.postimg.cc/pr5gqS9K/parte-22.jpg)](https://postimg.cc/n9ZRL0GL)
+[![Matriz-morfol-gica.png](https://i.postimg.cc/NjYQjRPB/Matriz-morfol-gica.png)](https://postimg.cc/rKhBhRkP)
 ## Tabla de Valoración
 
 Hemos realizado una tabla de valoracion 10 criterios
