@@ -105,7 +105,8 @@ Requiere ordenador adicional.
 ![image](https://github.com/Gustavo-Ruiz-Ortiz/FunBioGrupo9/assets/143019474/8d170c5a-8a4b-48e0-9e26-f03bd32cb72c)
 [![Captura-de-pantalla-2023-09-28-182302.png](https://i.postimg.cc/tgcRL2KG/Captura-de-pantalla-2023-09-28-182302.png)](https://postimg.cc/B8xGFcZm)
 ## Matriz Morfológica
-[![matriz-morfologica.jpg](https://i.postimg.cc/Jzw2QZvV/matriz-morfologica.jpg)](https://postimg.cc/D8g6vJ7B)
+[![parte-1.jpg](https://i.postimg.cc/CLz1VM84/parte-1.jpg)](https://postimg.cc/QHZsQ30B)
+[![parte-22.jpg](https://i.postimg.cc/pr5gqS9K/parte-22.jpg)](https://postimg.cc/n9ZRL0GL)
 ## Tabla de Valoración
 
 Hemos realizado una tabla de valoracion 10 criterios
