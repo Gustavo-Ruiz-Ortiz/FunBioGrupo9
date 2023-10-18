@@ -124,7 +124,7 @@ Hemos realizado una tabla de valoracion 10 criterios
 ### Boceto 1
 [![Screenshot-2.png](https://i.postimg.cc/t4NjVLQc/Screenshot-2.png)](https://postimg.cc/CR5t3rKC)
 ### Boceto 2
-[![Screenshot-1.png](https://i.postimg.cc/1XPd9CCL/Screenshot-1.png)](https://postimg.cc/5Y7gg3M3)
+[![Boceto-termociclador-microfluidica-1.png](https://i.postimg.cc/cLtZTZkk/Boceto-termociclador-microfluidica-1.png)](https://postimg.cc/DShtwVT1)
 ### Boceto 3
 [![Boceto-x.png](https://i.postimg.cc/3RDbbwfB/Boceto-x.png)](https://postimg.cc/qh4LNpTh)
 ### Boceto 4
