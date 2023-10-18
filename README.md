@@ -126,7 +126,7 @@ Hemos realizado una tabla de valoracion 10 criterios
 ### Boceto 2
 [![Screenshot-1.png](https://i.postimg.cc/1XPd9CCL/Screenshot-1.png)](https://postimg.cc/5Y7gg3M3)
 ### Boceto 3
-[![Screenshot-3.png](https://i.postimg.cc/fR38hQWV/Screenshot-3.png)](https://postimg.cc/0zsYp3wv)
+https://i.postimg.cc/fR38hQWV/Screenshot-3.png 
 ## Matrices de evaluación 
 - https://docs.google.com/spreadsheets/d/1PtDaY6uVn9C4vja_Q9UvCkhxDV_YLoDiNOyHF16tYCQ/edit#gid=0
 ## Bibliografía
