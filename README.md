@@ -137,6 +137,8 @@ Hemos realizado una tabla de valoracion 10 criterios
 - [![Schematic-Termociclador-Microflu-dico-2023-10-18-1-page-0001.jpg](https://i.postimg.cc/pr4w7nVh/Schematic-Termociclador-Microflu-dico-2023-10-18-1-page-0001.jpg)](https://postimg.cc/p5Qc5rFR)
 ## Pruebas de control de temperatura
 [![Whats-App-Image-2023-10-18-at-12-20-55.jpg](https://i.postimg.cc/5NPhF01Q/Whats-App-Image-2023-10-18-at-12-20-55.jpg)](https://postimg.cc/MvQPCznz)
+## PPT
+https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 ## Bibliografía
 
 [1] Bahena-García E, García-Cordero JL. Termociclador de Bajo Costo para Amplificar DNA Mediante Técnica de PCR en Microdispositivos. MCNIB [Internet]. 2014 [citado el 31 de agosto de 2023];1(1):152–5. Recuperado de: https://memoriascnib.mx/index.php/memorias/article/view/196
