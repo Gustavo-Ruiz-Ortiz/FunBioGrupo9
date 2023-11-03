@@ -139,7 +139,8 @@ Hemos realizado una tabla de valoracion 10 criterios
 
 ## PPT HITO N°1
 https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
-## Modelado en 3D
+## Modelado en 3D de los componentes 
+
 https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Bibliografía
 
