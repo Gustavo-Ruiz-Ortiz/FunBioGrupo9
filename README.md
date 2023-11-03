@@ -139,6 +139,8 @@ Hemos realizado una tabla de valoracion 10 criterios
 
 ## PPT HITO N°1
 https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
+## OneShape(Modelados y geometria)
+https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Bibliografía
 
 [1] Bahena-García E, García-Cordero JL. Termociclador de Bajo Costo para Amplificar DNA Mediante Técnica de PCR en Microdispositivos. MCNIB [Internet]. 2014 [citado el 31 de agosto de 2023];1(1):152–5. Recuperado de: https://memoriascnib.mx/index.php/memorias/article/view/196
