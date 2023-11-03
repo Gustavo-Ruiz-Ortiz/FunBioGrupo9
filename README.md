@@ -136,7 +136,7 @@ Hemos realizado una tabla de valoracion 10 criterios
 ## Esquema electrónico
 - [![Schematic-Termociclador-Microflu-dico-2023-10-25.png](https://i.postimg.cc/fWjFSTmJ/Schematic-Termociclador-Microflu-dico-2023-10-25.png)](https://postimg.cc/Yj08J7XH)
 ## Pruebas de control de temperatura
-[![Whats-App-Image-2023-10-18-at-12-20-55.jpg](https://i.postimg.cc/5NPhF01Q/Whats-App-Image-2023-10-18-at-12-20-55.jpg)](https://postimg.cc/MvQPCznz)
+[![Schematic-Termociclador-Microflu-dico-2023-11-02.png](https://i.postimg.cc/qv3VSgP4/Schematic-Termociclador-Microflu-dico-2023-11-02.png)](https://postimg.cc/FYNBJFFB)
 ## PPT HITO N°1
 https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 ## Bibliografía
