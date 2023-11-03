@@ -141,7 +141,9 @@ Hemos realizado una tabla de valoracion 10 criterios
 https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 ## Modelado en 3D de los componentes 
 -Carcasa base del termociclador: https://skfb.ly/oN6Gx
-
+[![Base-carcasa-del-termociclador.png](https://i.postimg.cc/N0n8cvRz/Base-carcasa-del-termociclador.png)](https://postimg.cc/yJF3m5Qm)
+-Carcasa Parte 2:
+-Carcasa Parte 3:
 https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Bibliografía
 
