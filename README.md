@@ -142,8 +142,10 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 ## Modelado en 3D de los componentes 
 -Carcasa base del termociclador: https://skfb.ly/oN6Gx
 [![Base-carcasa-del-termociclador.png](https://i.postimg.cc/N0n8cvRz/Base-carcasa-del-termociclador.png)](https://postimg.cc/yJF3m5Qm)
--Carcasa Parte 2:
--Carcasa Parte 3:
+-Carcasa Parte 2: https://skfb.ly/oN6HX
+[![Parte-2-carcasa.png](https://i.postimg.cc/NM7zf0b0/Parte-2-carcasa.png)](https://postimg.cc/62q0Mtks)
+-Carcasa Parte 3: https://skfb.ly/oN6IJ
+[![Parte-3-carcasa.png](https://i.postimg.cc/T33LtNBN/Parte-3-carcasa.png)](https://postimg.cc/bs4wJgy1)
 https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Bibliografía
 
