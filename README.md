@@ -150,6 +150,8 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Diagrama de flujo 
 [![Untitled-Diagram-drawio-1.png](https://i.postimg.cc/sDLPwxjs/Untitled-Diagram-drawio-1.png)](https://postimg.cc/ZCryqTvM)
+## Avnace del prototipado
+[![Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg](https://i.postimg.cc/c6G3Ggrn/Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg)](https://postimg.cc/Lgv5zsk9)
 
 
 ## Bibliografía
