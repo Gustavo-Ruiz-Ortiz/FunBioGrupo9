@@ -1,0 +1,67 @@
+#include <SPI.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SH1106.h>
+
+
+#define OLED_RESET 4
+Adafruit_SH1106 display(OLED_RESET);
+#define termistorPin A3
+#define termistorNominalRes 100000
+#define termistorNominalTemp 25
+#define termistorBValue 3950
+#define VoltageDividerResistor 100000
+float termistorRes = 0.0;
+float steinhart;
+
+void setup() {
+  // put your setup code here, to run once:
+   Serial.begin(115200);
+  analogReference(EXTERNAL);
+  display.begin(SH1106_SWITCHCAPVCC, 0X3C);
+  display.clearDisplay();
+  display.display();
+  delay(2000);
+  display.setTextSize(1);
+  display.setTextColor(WHITE);
+  display.println("Control de temperatura");
+  
+  display.display();
+  delay(4000);
+ 
+  
+}
+
+void loop() 
+{
+  // put your main code here, to run repeatedly:
+ 
+   termistorRes = ((float)analogRead (termistorPin)* VoltageDividerResistor)/(1023 - (float)analogRead (termistorPin));
+  steinhart = termistorRes / termistorNominalRes;     // (R/Ro)
+  steinhart = log(steinhart);                         // ln(R/Ro)
+  steinhart /= termistorBValue;                       // 1/B * ln(R/Ro)
+  steinhart += 1.0 / (termistorNominalTemp + 273.15); // + (1/To)
+  steinhart = 1.0 / steinhart;                        // Invert  
+  steinhart -= 273.15;                                // convert to C
+
+  //-------------------------------------------------------------------------
+  
+  delay(1000);
+  display.clearDisplay();
+  display.display();
+  display.setTextSize(1);
+  display.setTextColor (WHITE);
+  display.setCursor(40, 0);
+  display.println("Temperatura");
+  display.setTextSize(2);
+  display.setCursor(40, 20);
+  display.println(steinhart);
+  display.setTextSize(2);
+  display.setCursor(40, 40);
+  display.println(" *C");
+  display.display();
+  delay(1000);
+  
+ 
+  
+}
