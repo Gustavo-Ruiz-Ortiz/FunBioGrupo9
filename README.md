@@ -134,7 +134,7 @@ Hemos realizado una tabla de valoracion 10 criterios
 ## Matrices de evaluación 
 - https://docs.google.com/spreadsheets/d/1PtDaY6uVn9C4vja_Q9UvCkhxDV_YLoDiNOyHF16tYCQ/edit#gid=0
 ## Esquema electrónico
-- [![Schematic-Termociclador-Microflu-dico-2023-11-02.png](https://i.postimg.cc/qv3VSgP4/Schematic-Termociclador-Microflu-dico-2023-11-02.png)](https://postimg.cc/FYNBJFFB)
+- [![Schematic-Termociclador-Microflu-dico-2023-11-02-1.png](https://i.postimg.cc/gjTQBP4x/Schematic-Termociclador-Microflu-dico-2023-11-02-1.png)](https://postimg.cc/JHjpGvf8)
 ## Pruebas de control de temperatura
 [![Schematic-Termociclador-Microflu-dico-2023-11-02.png](https://i.postimg.cc/qv3VSgP4/Schematic-Termociclador-Microflu-dico-2023-11-02.png)](https://postimg.cc/FYNBJFFB)
 ## PPT HITO N°1
