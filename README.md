@@ -147,6 +147,9 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 -Carcasa Parte 3: https://skfb.ly/oN6IJ
 [![Parte-3-carcasa.png](https://i.postimg.cc/T33LtNBN/Parte-3-carcasa.png)](https://postimg.cc/bs4wJgy1)
 ## Enlaces OneShape
+-Componentes y carcacasa
+https://cad.onshape.com/documents/5c575a7ae5de3cd24fda35f0/w/73c209090c909bf97c665e2e/e/13328052d5262d9b7bd32f5d?renderMode=0&uiState=654598e014c7d36154366ec2
+-Contramolde del chip de microfluídica
 https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Diagrama de flujo 
 [![Untitled-Diagram-drawio-1.png](https://i.postimg.cc/sDLPwxjs/Untitled-Diagram-drawio-1.png)](https://postimg.cc/ZCryqTvM)
