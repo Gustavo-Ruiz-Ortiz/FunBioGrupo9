@@ -5,14 +5,14 @@
 ![pucp_upch](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/11b298ef-4331-4d34-9643-bca3bb04df60)
 [![63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg](https://i.postimg.cc/ZK9tT6XX/63a2aa1c-20bc-446d-99ad-a25af295cc50.jpg)](https://postimg.cc/0bqHnKkC)
 ### Integrantes 
-|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de modelado 3D y Coordinador general)|RIVERA FERRO VALERIA (Coordinador de electrónica)|
+|ALCANTARA MOROTE ENRIQUE GUILLERMO (Coordinador de programacion y Coordinador general)|RIVERA FERRO VALERIA (Coordinador de electrónica)|
 |--------------|-----------------------------------|
 |[![Whats-App-Image-2023-09-17-at-21-04-11.jpg](https://i.postimg.cc/nVQ13GB8/Whats-App-Image-2023-09-17-at-21-04-11.jpg)](https://postimg.cc/4nstdtWw)|[![Whats-App-Image-2023-09-17-at-21-04-10.jpg](https://i.postimg.cc/QtqjDTWj/Whats-App-Image-2023-09-17-at-21-04-10.jpg)](https://postimg.cc/tZ7Kt75c)|
 |||
-|RUIZ ORTIZ GUSTAVO ANDRE (Coordinador de la página Web y programación)|CABALLERO ORELLANA NICOLAS RENATO (Coordinador de planos y bocetos)|
+|RUIZ ORTIZ GUSTAVO ANDRE (Coordinador de modelado 3D )|CABALLERO ORELLANA NICOLAS RENATO (Coordinador de diseño del y fabricacion chip)|
 |[![Whats-App-Image-2023-09-17-at-21-04-11-1.jpg](https://i.postimg.cc/sxNdf9fC/Whats-App-Image-2023-09-17-at-21-04-11-1.jpg)](https://postimg.cc/kRKhfStT)|[![Whats-App-Image-2023-09-17-at-21-04-12.jpg](https://i.postimg.cc/tg5cCtDv/Whats-App-Image-2023-09-17-at-21-04-12.jpg)](https://postimg.cc/R3Wdgtkw)|
 |||
-|MEDINA SARAYA NICOLE JANETH (Coordinador de Investigación)|
+|MEDINA SARAYA NICOLE JANETH (Coordinador de diseño y fabricacion del chip)|
 |[![Whats-App-Image-2023-09-17-at-21-04-10-1.jpg](https://i.postimg.cc/vTpqSPHT/Whats-App-Image-2023-09-17-at-21-04-10-1.jpg)](https://postimg.cc/9wYYDY9H)|
 
 
@@ -153,8 +153,15 @@ https://cad.onshape.com/documents/5c575a7ae5de3cd24fda35f0/w/73c209090c909bf97c6
 https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Diagrama de flujo 
 [![Untitled-Diagram-drawio-1.png](https://i.postimg.cc/sDLPwxjs/Untitled-Diagram-drawio-1.png)](https://postimg.cc/ZCryqTvM)
-## Avnace del prototipado
+## Avance del prototipado
 [![Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg](https://i.postimg.cc/c6G3Ggrn/Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg)](https://postimg.cc/Lgv5zsk9)
+## Retos y limitaciones
+-El chip microfluidica debe tener un menor tamaño.
+-Mayor numero de ciclos en el chip.
+-Mantener las temperaturas por tiempos prolongados.
+-Se podria automatizar aun mas el termociclador.
+
+
 
 
 ## Bibliografía
