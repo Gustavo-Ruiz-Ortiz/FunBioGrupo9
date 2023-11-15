@@ -155,6 +155,8 @@ https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c
 [![Untitled-Diagram-drawio-1.png](https://i.postimg.cc/sDLPwxjs/Untitled-Diagram-drawio-1.png)](https://postimg.cc/ZCryqTvM)
 ## Avance del prototipado
 [![Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg](https://i.postimg.cc/c6G3Ggrn/Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg)](https://postimg.cc/Lgv5zsk9)
+## Diagrma de flujo
+[![DIAGRAMA-DE-FLUJO-TERMOCICLADOR.jpg](https://i.postimg.cc/B6wxcczP/DIAGRAMA-DE-FLUJO-TERMOCICLADOR.jpg)](https://postimg.cc/5YLYfvbf)
 ## Retos y limitaciones
 + El chip de microfluídica debe tener un menor tamaño.
 + Mayor numero de ciclos en el chip.
