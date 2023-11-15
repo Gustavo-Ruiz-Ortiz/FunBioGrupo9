@@ -156,10 +156,10 @@ https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c
 ## Avance del prototipado
 [![Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg](https://i.postimg.cc/c6G3Ggrn/Whats-App-Image-2023-11-03-at-6-36-48-AM.jpg)](https://postimg.cc/Lgv5zsk9)
 ## Retos y limitaciones
--El chip microfluidica debe tener un menor tamaño.
--Mayor numero de ciclos en el chip.
--Mantener las temperaturas por tiempos prolongados.
--Se podria automatizar aun mas el termociclador.
++ El chip microfluidica debe tener un menor tamaño.
++ Mayor numero de ciclos en el chip.
++ Mantener las temperaturas por tiempos prolongados.
++ Se podria automatizar aun mas el termociclador.
 
 
 
