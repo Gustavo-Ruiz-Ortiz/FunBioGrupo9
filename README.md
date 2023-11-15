@@ -160,10 +160,9 @@ https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c
 + Mayor numero de ciclos en el chip.
 + Mantener las temperaturas por tiempos prolongados.
 + Se podria automatizar más el termociclador con bombas internas.
-+ .
-+ 
 
-
+## Verificación de diseño
+https://docs.google.com/document/d/1TsCVFEJOga8JYo5iNvaCl-LzZoTsYTl-dQNqVOA4f9s/edit?usp=drivesdk
 
 ## Bibliografía
 
