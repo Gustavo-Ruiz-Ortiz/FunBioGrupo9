@@ -164,6 +164,13 @@ https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c
 
 ## Verificación de diseño
 https://docs.google.com/document/d/1TsCVFEJOga8JYo5iNvaCl-LzZoTsYTl-dQNqVOA4f9s/edit?usp=drivesdk
+## Pruebas del contramolde
+Se realizo una prueba con contramolde hecho de PLA, para ver si se podria realizar el chip.
+[![99c87b65-69f9-4b9f-a403-4454fd66336a.jpg](https://i.postimg.cc/c4RhYGQt/99c87b65-69f9-4b9f-a403-4454fd66336a.jpg)](https://postimg.cc/ppdKb7cP)
+Al final, se observo que con este material no era posible realizar el chip para nuestra version final se usara un contramolde de resina.
+Se realizo la impresion en resina, se realizara el proceso para la fabricacion del chip, con PDMS.
+[![160ee844-0436-4cfd-9137-7c398b6b8b5f.jpg](https://i.postimg.cc/SRp8Nj1T/160ee844-0436-4cfd-9137-7c398b6b8b5f.jpg)](https://postimg.cc/HcBj6WgX)
+[![f5e4a40c-9e29-4836-8d7a-287f9b84f05d.jpg](https://i.postimg.cc/Bbg8SpKb/f5e4a40c-9e29-4836-8d7a-287f9b84f05d.jpg)](https://postimg.cc/xNXjgKgV)
 
 ## Bibliografía
 
