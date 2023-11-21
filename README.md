@@ -140,10 +140,16 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 ## Modelado en 3D de los componentes 
 -Carcasa base del termociclador: https://skfb.ly/oNO9X
 [![Base-de-la-carcasa.png](https://i.postimg.cc/XYy2gcnv/Base-de-la-carcasa.png)](https://postimg.cc/Xr4cj5GM)
+### Plano isométrico de la base de la carcasa
+[![Carcasa-Base.png](https://i.postimg.cc/RVtcgwPs/Carcasa-Base.png)](https://postimg.cc/BXqL6PfH)
 -Carcasa Parte 2: https://skfb.ly/oNOvq
 [![parte-3.png](https://i.postimg.cc/BbdXx1Td/parte-3.png)](https://postimg.cc/jn4xT2kX)
+### Plano isométrico del aparte media de la carcasa
+[![Soporte-chip-microflu-dica.png](https://i.postimg.cc/Vsgv9gPB/Soporte-chip-microflu-dica.png)](https://postimg.cc/0r69PpQb)
 -Carcasa Parte 3: https://skfb.ly/oNOvv
 [![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
+### Plano isométrico de la tapa de la carcasa
+[![Tapa-Carcasa.png](https://i.postimg.cc/CxHQdRq1/Tapa-Carcasa.png)](https://postimg.cc/K1jNHvQS)
 
 ## Enlaces OneShape
 ### Componentes y carcacasa
