@@ -144,13 +144,12 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 [![Carcasa-Base.png](https://i.postimg.cc/RVtcgwPs/Carcasa-Base.png)](https://postimg.cc/BXqL6PfH)
 -Carcasa Parte 2: https://skfb.ly/oNOvq
 [![parte-3.png](https://i.postimg.cc/BbdXx1Td/parte-3.png)](https://postimg.cc/jn4xT2kX)
-### Plano isométrico del aparte media de la carcasa
-[![Soporte-chip-microflu-dica.png](https://i.postimg.cc/Vsgv9gPB/Soporte-chip-microflu-dica.png)](https://postimg.cc/0r69PpQb)
--Carcasa Parte 3: https://skfb.ly/oNOvv
-[![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
 ### Plano isométrico de la tapa de la carcasa
 [![Tapa-Carcasa.png](https://i.postimg.cc/CxHQdRq1/Tapa-Carcasa.png)](https://postimg.cc/K1jNHvQS)
-
+-Carcasa Parte 3: https://skfb.ly/oNOvv
+[![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
+### Plano isométrico de la parte media de la carcasa
+[![Soporte-chip-microflu-dica.png](https://i.postimg.cc/Vsgv9gPB/Soporte-chip-microflu-dica.png)](https://postimg.cc/0r69PpQb)
 ## Enlaces OneShape
 ### Componentes y carcacasa
 https://cad.onshape.com/documents/5c575a7ae5de3cd24fda35f0/w/73c209090c909bf97c665e2e/e/13328052d5262d9b7bd32f5d?renderMode=0&uiState=6548f73cc516d773c126b91c
