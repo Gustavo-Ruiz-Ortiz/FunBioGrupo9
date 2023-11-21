@@ -152,7 +152,7 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 [![Soporte-chip-microflu-dica.png](https://i.postimg.cc/Vsgv9gPB/Soporte-chip-microflu-dica.png)](https://postimg.cc/0r69PpQb)
 ## Enlaces OneShape
 ### Componentes y carcacasa
-https://cad.onshape.com/documents/5c575a7ae5de3cd24fda35f0/w/73c209090c909bf97c665e2e/e/13328052d5262d9b7bd32f5d?renderMode=0&uiState=6548f73cc516d773c126b91c
+https://cad.onshape.com/documents/3c69da4aec3d4fec306870b1/w/ff71629046bcd60121277cbf/e/66d43336e45c33c256d9e490?renderMode=0&uiState=655c5ca124f07c3e0e943941
 ### Contramolde del chip de microfluídica
 https://cad.onshape.com/document-redirect.html?d=/documents/58f5c6ed37521dd7453c923c/w/12786204cf6612304ef26fec/e/b96ee91cdfebab57e8f28cb8
 ## Diagrama de flujo 
