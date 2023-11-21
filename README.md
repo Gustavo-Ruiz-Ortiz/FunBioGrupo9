@@ -141,7 +141,7 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 -Carcasa base del termociclador: https://skfb.ly/oNO9X
 [![Base-de-la-carcasa.png](https://i.postimg.cc/XYy2gcnv/Base-de-la-carcasa.png)](https://postimg.cc/Xr4cj5GM)
 -Carcasa Parte 2: https://skfb.ly/oNOvq
-[![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
+[![parte-3.png](https://i.postimg.cc/BbdXx1Td/parte-3.png)](https://postimg.cc/jn4xT2kX)
 -Carcasa Parte 3: https://skfb.ly/oNOvv
 [![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
 
