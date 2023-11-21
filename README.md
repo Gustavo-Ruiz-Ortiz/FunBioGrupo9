@@ -140,10 +140,11 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 ## Modelado en 3D de los componentes 
 -Carcasa base del termociclador: https://skfb.ly/oNO9X
 [![Base-de-la-carcasa.png](https://i.postimg.cc/XYy2gcnv/Base-de-la-carcasa.png)](https://postimg.cc/Xr4cj5GM)
--Carcasa Parte 2: https://skfb.ly/oN6HX
-[![Parte-2-carcasa.png](https://i.postimg.cc/NM7zf0b0/Parte-2-carcasa.png)](https://postimg.cc/62q0Mtks)
--Carcasa Parte 3: https://skfb.ly/oN6IJ
-[![Parte-3-carcasa.png](https://i.postimg.cc/T33LtNBN/Parte-3-carcasa.png)](https://postimg.cc/bs4wJgy1)
+-Carcasa Parte 2: https://skfb.ly/oNOvq
+[![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
+-Carcasa Parte 3: https://skfb.ly/oNOvv
+[![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
+
 ## Enlaces OneShape
 ### Componentes y carcacasa
 https://cad.onshape.com/documents/5c575a7ae5de3cd24fda35f0/w/73c209090c909bf97c665e2e/e/13328052d5262d9b7bd32f5d?renderMode=0&uiState=6548f73cc516d773c126b91c
