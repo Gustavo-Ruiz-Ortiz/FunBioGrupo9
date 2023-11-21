@@ -124,12 +124,10 @@ Hemos realizado una tabla de valoracion 10 criterios
 ### Boceto 1
 [![Screenshot-2.png](https://i.postimg.cc/t4NjVLQc/Screenshot-2.png)](https://postimg.cc/CR5t3rKC)
 ### Boceto 2
-[![Boceto-termociclador-microfluidica-1.png](https://i.postimg.cc/cLtZTZkk/Boceto-termociclador-microfluidica-1.png)](https://postimg.cc/DShtwVT1)
-### Boceto 3
 [![Boceto-x.png](https://i.postimg.cc/3RDbbwfB/Boceto-x.png)](https://postimg.cc/qh4LNpTh)
-### Boceto 4
+### Boceto 3
 [![Boceto-Valeria.png](https://i.postimg.cc/w38DnwVC/Boceto-Valeria.png)](https://postimg.cc/jncW7QBc)
-### Boceto 5
+### Boceto 4
 [![Boceto-Enrique.png](https://i.postimg.cc/jSFMRnTv/Boceto-Enrique.png)](https://postimg.cc/mP7YwDtF)
 ## Matrices de evaluación 
 - https://docs.google.com/spreadsheets/d/1PtDaY6uVn9C4vja_Q9UvCkhxDV_YLoDiNOyHF16tYCQ/edit#gid=0
