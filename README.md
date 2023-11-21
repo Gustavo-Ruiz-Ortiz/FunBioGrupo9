@@ -150,6 +150,8 @@ https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit
 [![Screenshot-1.png](https://i.postimg.cc/X77F3wqY/Screenshot-1.png)](https://postimg.cc/Jtvt5Hjf)
 ### Plano isométrico de la parte media de la carcasa
 [![Soporte-chip-microflu-dica.png](https://i.postimg.cc/Vsgv9gPB/Soporte-chip-microflu-dica.png)](https://postimg.cc/0r69PpQb)
+-Soporte en forma de L: https://skfb.ly/oNOxO
+[![Soporte-en-forma-de-L.png](https://i.postimg.cc/CL0RshN3/Soporte-en-forma-de-L.png)](https://postimg.cc/yWf6Vz2j)
 ## Enlaces OneShape
 ### Componentes y carcacasa
 https://cad.onshape.com/documents/3c69da4aec3d4fec306870b1/w/ff71629046bcd60121277cbf/e/66d43336e45c33c256d9e490?renderMode=0&uiState=655c5ca124f07c3e0e943941
