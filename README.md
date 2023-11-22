@@ -177,7 +177,6 @@ Se realizo la impresion en resina, se realizara el proceso para la fabricacion d
 
 ## PPT HITO N°2
 https://www.canva.com/design/DAFyPmHWCto/1_kynn41HEH79EPGvWKCEw/edit?utm_content=DAFyPmHWCto&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ## Bibliografía
 
 [1] Bahena-García E, García-Cordero JL. Termociclador de Bajo Costo para Amplificar DNA Mediante Técnica de PCR en Microdispositivos. MCNIB [Internet]. 2014 [citado el 31 de agosto de 2023];1(1):152–5. Recuperado de: https://memoriascnib.mx/index.php/memorias/article/view/196
